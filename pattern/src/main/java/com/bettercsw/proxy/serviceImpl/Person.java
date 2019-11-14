@@ -7,7 +7,7 @@ import com.bettercsw.proxy.service.BaseService;
  * @author csw
  * @date 2019/11/14 15:07
  */
-public class BaseServiceImpl implements BaseService {
+public class Person implements BaseService {
     @Override
     public void eat() {
         System.out.println("吃饭饭");

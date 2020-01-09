@@ -19,6 +19,7 @@ public class Father {
     }
 
      public int test() {
+
         System.out.print("(4)");
         return 1;
     }
@@ -26,4 +27,5 @@ public class Father {
         System.out.print("(5)");
         return 1;
     }
+
 }

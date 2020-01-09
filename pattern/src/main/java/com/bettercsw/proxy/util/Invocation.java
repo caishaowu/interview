@@ -6,7 +6,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
 /**
- * 通知类：
+ * 通知类(JDK规定必须实现InvocationHandler)：
  * 1）次要业务具体实现
  * 2）主要业务与次要业务的绑定
  *
@@ -14,8 +14,8 @@ import java.lang.reflect.Method;
  * @date 2019/11/14 15:09
  */
 public class Invocation implements InvocationHandler {
-
-    private BaseService obj;   //具体被监控对象
+    //具体被监控对象
+    private BaseService obj;
 
     public Invocation(BaseService param){
         this.obj = param;

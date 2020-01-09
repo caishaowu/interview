@@ -1,17 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01a3321f-ac2d-421f-a3a0-599ee7db8938" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/util/ProxyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/serviceImpl/BaseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/serviceImpl/Person.java" afterDir="false" />
+    <list default="true" id="01a3321f-ac2d-421f-a3a0-599ee7db8938" name="Default" comment=" first commit">
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/service/StuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/service/impl/StuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/template/JDBCTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/util/JDBCUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/target/classes/com/bettercsw/TestMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/target/classes/com/bettercsw/pojo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/target/classes/com/bettercsw/service/StuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/target/classes/com/bettercsw/service/impl/StuServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/target/classes/com/bettercsw/template/JDBCTemplate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/target/classes/com/bettercsw/util/JDBCUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJDBCTemplate/target/classes/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/AudiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/Bmw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/BmwFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/ICar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/ICarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/Bmw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/ICar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/EnumSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/HungrySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyDoubleCheckSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyInnerClassSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyInnerClassSingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazySimpleSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazySimpleSingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/SerializableSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/SerializableSingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/util/ExecutorThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/test/java/com/bettercsw/TestEnumSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/abstractfactory/AudiBody.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/abstractfactory/AudiEngine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/abstractfactory/AudiFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/abstractfactory/CarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/abstractfactory/ICarBody.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/abstractfactory/ICarEngine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/abstractfactory/TestMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/methodfactory/Audi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/methodfactory/AudiFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/methodfactory/Bmw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/methodfactory/BmwFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/methodfactory/ICar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/methodfactory/ICarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/methodfactory/TestMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/simplefactory/Audi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/simplefactory/Bmw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/simplefactory/CarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/simplefactory/ICar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/simplefactory/TestMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/EnumSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/EnumSingleton.jad" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/HungrySingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazyDoubleCheckSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazyInnerClassSingleton$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazyInnerClassSingleton$InnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazyInnerClassSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazyInnerClassSingletonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazySimpleSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazySimpleSingletonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/SerializableSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/SerializableSingletonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/util/ExecutorThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/target/test-classes/com/bettercsw/TestEnumSingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/EqualsObejct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/thread/CsGameByThreadLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/CoverageSampleMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketSeller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CoverageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/EqualsObejct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/TestMain$Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/TestMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/unitTest/CoverageSampleMethods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/CoverageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/util/Invocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/util/Invocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Son.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Variables.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/pattern/target/" />
+    <ignored path="$PROJECT_DIR$/MyJDBCTemplate/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,54 +142,86 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BaseService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/service/BaseService.java">
+      <file leaf-file-name="AudiEngine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Invocation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/util/Invocation.java">
+      <file leaf-file-name="AudiBody.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiBody.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/TestMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EqualsObejct.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/EqualsObejct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="20" selection-start-line="18" selection-start-column="19" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoverageSampleMethods.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/CoverageSampleMethods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CoverageTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CoverageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="81" column="72" lean-forward="true" selection-start-line="81" selection-start-column="72" selection-end-line="81" selection-end-column="72" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-                <element signature="e#1120#1121#0" expanded="true" />
-                <element signature="e#1156#1157#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProxyFactory.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/util/ProxyFactory.java">
+      <file leaf-file-name="TicketSeller.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketSeller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="176">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/serviceImpl/Person.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-              <folding>
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="228">
+              <caret line="27" column="44" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AudiFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -102,6 +241,18 @@
       <find>cache</find>
       <find>valueof</find>
       <find>IntegerCache</find>
+      <find>readEnum</find>
+      <find>hashCode</find>
+      <find>set</find>
+      <find>add</find>
+      <find>Comparable</find>
+      <find>compareTo</find>
+      <find>Key</find>
+      <find>class key</find>
+      <find>hashc</find>
+      <find>compare</find>
+      <find>ObjectOutputStream</find>
+      <find>initialValue</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -122,21 +273,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/VarAutoIncr.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Fun.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/ParamPassed.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/ICar.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/AudiFactory.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/Audi.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/Bmw.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/Audi.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/ICar.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/ICarFactory.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/BmwFactory.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/TestMain.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarFactory.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarEngine.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarBody.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiBody.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiEngine.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiFactory.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/GenericTest.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/Test.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/util/ExectorThread.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazySimpleSingletonTest.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazySimpleSingleton.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyDoubleCheckSingleton.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyInnerClassSingleton.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyInnerClassSingletonTest.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/SeriableSingleton.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/HungrySingleton.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/SerializableSingleton.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/SerializableSingletonTest.java" />
+        <option value="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/TestMain.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/EnumSingleton.java" />
+        <option value="$PROJECT_DIR$/pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/pattern/src/test/java/com/bettercsw/TestEnumSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/test" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/EqualsObejct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/test/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/test/Son.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/test/Father.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Variables.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/serviceImpl/BaseServiceImpl.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/service/BaseService.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/util/Invocation.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/util/ProxyFactory.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/pattern/src/test/java/com/bettercsw/proxy/Test.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/serviceImpl/Person.java" />
-        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/com/bettercsw/thread/CsGameByThreadLocal.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/Lsp.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Rectangle.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Square.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Test.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/TestMain.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/CarFactory.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/CarFactory.java" />
+        <option value="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/TestMain.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testLineCoverageSample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/CoverageSampleMethods.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/CoverageTest.java" />
       </list>
     </option>
   </component>
@@ -165,10 +352,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1911" />
-    <option name="y" value="-6" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -176,8 +363,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,25 +376,17 @@
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -214,43 +394,29 @@
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="bettercsw" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="serviceImpl" type="462c0819:PsiDirectoryNode" />
+              <item name="bettercsw" type="462c0819:PsiDirectoryNode" />
+              <item name="unitTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -259,19 +425,24 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Enum&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Enum.java&#10;Inte&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Integer.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../学习资料/开课吧架构师/02课 _MyBatis -（2018.7.15）/01_MyBatis/04_案例/05_MyBatis_代理模式" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../eshop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bettercsw.factory.methodfactory" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -285,53 +456,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestMain">
-    <configuration name="Fun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.basic.Fun" />
-      <module name="interview" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bettercsw.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ParamPassed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.basic.ParamPassed" />
-      <module name="interview" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bettercsw.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.basic.Test" />
-      <module name="interview" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bettercsw.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.CoverageTest.testPathCoverageSampleFalse">
     <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.proxy.TestMain" />
-      <module name="pattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bettercsw.proxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.basic.Variables" />
+      <option name="MAIN_CLASS_NAME" value="com.bettercsw.basic.TestMain" />
       <module name="interview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -343,6 +470,91 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CoverageTest.testConditionDecisionCoverageFalse (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CoverageTest" />
+      <option name="METHOD_NAME" value="testConditionDecisionCoverageFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CoverageTest.testMultipleConditionDecisionCoverageFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CoverageTest" />
+      <option name="METHOD_NAME" value="testMultipleConditionDecisionCoverageFalse(int,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CoverageTest.testMultipleConditionDecisionCoverageTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CoverageTest" />
+      <option name="METHOD_NAME" value="testMultipleConditionDecisionCoverageTrue(int,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CoverageTest.testPathCoverageSampleFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CoverageTest" />
+      <option name="METHOD_NAME" value="testPathCoverageSampleFalse(int,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CoverageTest.testPathCoverageSampleTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="interview" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CoverageTest" />
+      <option name="METHOD_NAME" value="testPathCoverageSampleTrue(int,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -383,19 +595,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ParamPassed" />
-      <item itemvalue="Application.Fun" />
-      <item itemvalue="Application.Variables" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.TestMain" />
+      <item itemvalue="JUnit.CoverageTest.testConditionDecisionCoverageFalse (1)" />
+      <item itemvalue="JUnit.CoverageTest.testMultipleConditionDecisionCoverageTrue" />
+      <item itemvalue="JUnit.CoverageTest.testMultipleConditionDecisionCoverageFalse" />
+      <item itemvalue="JUnit.CoverageTest.testPathCoverageSampleTrue" />
+      <item itemvalue="JUnit.CoverageTest.testPathCoverageSampleFalse" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestMain" />
-        <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ParamPassed" />
-        <item itemvalue="Application.Fun" />
+        <item itemvalue="JUnit.CoverageTest.testPathCoverageSampleFalse" />
+        <item itemvalue="JUnit.CoverageTest.testPathCoverageSampleTrue" />
+        <item itemvalue="JUnit.CoverageTest.testMultipleConditionDecisionCoverageFalse" />
+        <item itemvalue="JUnit.CoverageTest.testMultipleConditionDecisionCoverageTrue" />
+        <item itemvalue="JUnit.CoverageTest.testConditionDecisionCoverageFalse (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -421,48 +633,106 @@
       <workItem from="1573179710089" duration="1477000" />
       <workItem from="1573460236899" duration="615000" />
       <workItem from="1573462931234" duration="363000" />
-      <workItem from="1573714285236" duration="3733000" />
+      <workItem from="1573714285236" duration="5426000" />
+      <workItem from="1573780922322" duration="4492000" />
+      <workItem from="1574128389541" duration="1848000" />
+      <workItem from="1574230111612" duration="5875000" />
+      <workItem from="1574239280133" duration="1934000" />
+      <workItem from="1574407127727" duration="315000" />
+      <workItem from="1574410657920" duration="4545000" />
+      <workItem from="1574415217025" duration="889000" />
+      <workItem from="1574729823759" duration="707000" />
+      <workItem from="1574736246191" duration="781000" />
+      <workItem from="1575010907505" duration="5350000" />
+      <workItem from="1575442489141" duration="2030000" />
+      <workItem from="1575444549873" duration="2719000" />
+      <workItem from="1575507749683" duration="776000" />
+      <workItem from="1575860425430" duration="7318000" />
+      <workItem from="1576028204751" duration="5864000" />
+      <workItem from="1576116639087" duration="1655000" />
+      <workItem from="1576206574297" duration="3978000" />
+      <workItem from="1576805845248" duration="2977000" />
+      <workItem from="1577779157579" duration="1227000" />
+      <workItem from="1577928786539" duration="4685000" />
+      <workItem from="1578277048742" duration="6051000" />
+      <workItem from="1578364224184" duration="1674000" />
+      <workItem from="1578383795055" duration="3523000" />
+      <workItem from="1578534926109" duration="6754000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TestEnumSingleton_test2 - 2019.12.11 at 11h 04m 41s.xml">
+      <configuration name="TestEnumSingleton.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoverageTest_testLineCoverageSample - 2020.01.09 at 10h 17m 32s.xml">
+      <configuration name="CoverageTest.testLineCoverageSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoverageTest_testConditionDecisionCoverageTrue - 2020.01.09 at 10h 47m 40s.xml">
+      <configuration name="CoverageTest.testConditionDecisionCoverageTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoverageTest_testConditionDecisionCoverageFalse - 2020.01.09 at 10h 50m 13s.xml">
+      <configuration name="CoverageTest.testConditionDecisionCoverageFalse" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoverageTest_testConditionDecisionCoverageFalse_(1) - 2020.01.09 at 10h 50m 30s.xml">
+      <configuration name="CoverageTest.testConditionDecisionCoverageFalse (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoverageTest_testConditionDecisionCoverageFalse_(1) - 2020.01.09 at 10h 50m 41s.xml">
+      <configuration name="CoverageTest.testConditionDecisionCoverageFalse (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoverageTest_testMultipleConditionDecisionCoverageTrue - 2020.01.09 at 11h 28m 59s.xml">
+      <configuration name="CoverageTest.testMultipleConditionDecisionCoverageTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoverageTest_testMultipleConditionDecisionCoverageFalse - 2020.01.09 at 11h 29m 05s.xml">
+      <configuration name="CoverageTest.testMultipleConditionDecisionCoverageFalse" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoverageTest_testPathCoverageSampleTrue - 2020.01.09 at 14h 33m 30s.xml">
+      <configuration name="CoverageTest.testPathCoverageSampleTrue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoverageTest_testPathCoverageSampleFalse - 2020.01.09 at 14h 35m 15s.xml">
+      <configuration name="CoverageTest.testPathCoverageSampleFalse" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25457000" />
+    <option name="totallyTimeSpent" value="105117000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="-4" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
-      <window_info anchor="right" id="PlantUML" />
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="PlantUML" order="12" />
+      <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3566334" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32952926" />
-      <window_info anchor="right" id="Codota" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Codota" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="9" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32952926" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.07132667" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.047075607" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2935657" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info active="true" anchor="right" id="leetcode" order="13" side_tool="true" visible="true" weight="0.33310992" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2639087" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.16405135" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38806972" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32952926" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="jclasslib" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="jclasslib" order="11" weight="0.3297587" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32952926" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -487,392 +757,523 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/util/ExecutorThread.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazySimpleSingleton.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazySimpleSingletonTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyDoubleCheckSingleton.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyDoubleCheckSingleton.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="14" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/VarAutoIncr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17006">
-          <caret line="806" column="62" selection-start-line="806" selection-start-column="62" selection-end-line="806" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/ParamPassed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/VarAutoIncr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/ParamPassed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17006">
-          <caret line="806" column="62" selection-start-line="806" selection-start-column="62" selection-end-line="806" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/VarAutoIncr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/ParamPassed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17006">
-          <caret line="806" column="62" lean-forward="true" selection-start-line="806" selection-start-column="62" selection-end-line="806" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/VarAutoIncr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java">
+    <entry file="file://$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/util/JDBCUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/ParamPassed.java">
+    <entry file="file://$PROJECT_DIR$/pattern/src/test/java/com/bettercsw/TestEnumSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        <state relative-caret-position="616">
+          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/VarAutoIncr.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/reflect/Constructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="7810">
+          <caret line="416" column="25" selection-start-line="416" selection-start-column="25" selection-end-line="416" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/ParamPassed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16434">
-          <caret line="780" column="22" selection-start-line="780" selection-start-column="22" selection-end-line="780" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/VarAutoIncr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/VarAutoIncr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/VarAutoIncr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/com/bettercsw/basic/VarAutoIncr.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/VarAutoIncr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Fun.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="806" column="62" selection-start-line="806" selection-start-column="62" selection-end-line="806" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/ParamPassed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="33" column="8" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Variables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/service/BaseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/util/Invocation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#1120#1121#0" expanded="true" />
-            <element signature="e#1156#1157#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="671" column="60" lean-forward="true" selection-start-line="665" selection-start-column="3" selection-end-line="671" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/src/test/java/com/bettercsw/proxy/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.bettercsw.proxy.serviceImpl.Person">
+    <entry file="uml://JAVA/com.bettercsw.factory.abstractfactory.CarFactory">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.bettercsw.proxy.serviceImpl.Person</OriginalElement>
+          <OriginalElement>com.bettercsw.factory.abstractfactory.CarFactory</OriginalElement>
           <nodes>
-            <node x="" y="">com.bettercsw.proxy.util.ProxyFactory</node>
-            <node x="" y="">com.bettercsw.proxy.serviceImpl.Person</node>
-            <node x="" y="">com.bettercsw.proxy.service.BaseService</node>
-            <node x="" y="">com.bettercsw.proxy.util.Invocation</node>
+            <node x="" y="">com.bettercsw.factory.abstractfactory.CarFactory</node>
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="58.0" y="166.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="55.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Comparable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="135" column="15" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25872">
+          <caret line="1294" column="30" selection-start-line="1294" selection-start-column="30" selection-end-line="1294" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/test" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/FileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="129" column="11" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8206">
+          <caret line="420" column="24" selection-start-line="420" selection-start-column="24" selection-end-line="420" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/ObjectOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10758">
+          <caret line="523" selection-start-line="523" selection-end-line="523" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/test/Son.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/test/Father.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/test/TestMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/concurrent/ThreadLocalRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/ThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="82" column="25" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/Lsp.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/thread/CsGameByThreadLocal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="52" column="5" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/Bmw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/CarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/ICar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/Audi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.bettercsw.factory.simplefactory.CarFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.bettercsw.factory.simplefactory.CarFactory</OriginalElement>
+          <nodes>
+            <node x="87.0" y="0.0">com.bettercsw.factory.simplefactory.ICar</node>
+            <node x="31.0" y="187.0">com.bettercsw.factory.simplefactory.CarFactory</node>
+            <node x="0.0" y="103.0">com.bettercsw.factory.simplefactory.Bmw</node>
+            <node x="174.0" y="103.0">com.bettercsw.factory.simplefactory.Audi</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.bettercsw.factory.simplefactory.Audi" target="com.bettercsw.factory.simplefactory.ICar">
+              <point x="0.0" y="-26.5" />
+              <point x="251.0" y="78.0" />
+              <point x="202.5" y="78.0" />
+              <point x="38.5" y="26.5" />
+            </edge>
+            <edge source="com.bettercsw.factory.simplefactory.Bmw" target="com.bettercsw.factory.simplefactory.ICar">
+              <point x="0.0" y="-26.5" />
+              <point x="77.0" y="78.0" />
+              <point x="125.5" y="78.0" />
+              <point x="-38.5" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-173.0" y="138.0" />
           <SelectedNodes />
           <Categories>
-            <Category>Fields</Category>
+            <Category>Methods</Category>
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/serviceImpl/Person.java">
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="44" lean-forward="true" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding>
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="88">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="22">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/ICar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/util/ProxyFactory.java">
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/ICarFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        <state relative-caret-position="176">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/AudiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/BmwFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.bettercsw.factory.methodfactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.bettercsw.factory.methodfactory</OriginalElement>
+          <nodes>
+            <node x="138.0" y="80.0">com.bettercsw.factory.methodfactory.BmwFactory</node>
+            <node x="95.0" y="235.0">com.bettercsw.factory.methodfactory.Bmw</node>
+            <node x="71.75" y="0.0">com.bettercsw.factory.methodfactory.ICarFactory</node>
+            <node x="0.0" y="235.0">com.bettercsw.factory.methodfactory.Audi</node>
+            <node x="0.0" y="80.0">com.bettercsw.factory.methodfactory.AudiFactory</node>
+            <node x="50.25" y="155.0">com.bettercsw.factory.methodfactory.ICar</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.bettercsw.factory.methodfactory.BmwFactory" target="com.bettercsw.factory.methodfactory.ICarFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="197.5" y="55.0" />
+              <point x="156.5" y="55.0" />
+              <point x="28.25" y="15.0" />
+            </edge>
+            <edge source="com.bettercsw.factory.methodfactory.AudiFactory" target="com.bettercsw.factory.methodfactory.ICarFactory">
+              <point x="0.0" y="-15.0" />
+              <point x="59.0" y="55.0" />
+              <point x="100.0" y="55.0" />
+              <point x="-28.25" y="15.0" />
+            </edge>
+            <edge source="com.bettercsw.factory.methodfactory.Audi" target="com.bettercsw.factory.methodfactory.ICar">
+              <point x="0.0" y="-15.0" />
+              <point x="37.5" y="210.0" />
+              <point x="67.75" y="210.0" />
+              <point x="-17.5" y="15.0" />
+            </edge>
+            <edge source="com.bettercsw.factory.methodfactory.Bmw" target="com.bettercsw.factory.methodfactory.ICar">
+              <point x="0.0" y="-15.0" />
+              <point x="133.0" y="210.0" />
+              <point x="102.75" y="210.0" />
+              <point x="17.5" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-62.0" y="133.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/CarFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/basic/EqualsObejct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="20" selection-start-line="18" selection-start-column="19" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testLineCoverageSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/CoverageSampleMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" column="44" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CoverageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="81" column="72" lean-forward="true" selection-start-line="81" selection-start-column="72" selection-end-line="81" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/leetcode/editor/en/[1]Two Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketSeller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -896,6 +1297,19 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>interview</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -910,6 +1324,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="809db329-b9f7-4bc3-82e4-32e021670cd7" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="UML Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ofNull</find>
+      <find>stream</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\devSoftware\apache-maven-3.6.1\maven_resp" />
+        <option name="mavenHome" value="D:/devSoftware/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\devSoftware\apache-maven-3.6.1\conf\settings_tianti_2.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectId" id="1dDFJ5ZbTZWcmgQbq41qJqSrcsg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.StreamTest6">
+    <configuration name="AbstractClassImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinaunicom.functionInterface.AbstractClassImpl" />
+      <module name="jdk8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chinaunicom.functionInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyListSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinaunicom.lambda.MyListSort" />
+      <module name="jdk8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chinaunicom.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinaunicom.Stream.StreamTest6" />
+      <module name="jdk8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chinaunicom.Stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinaunicom.lambda.Test" />
+      <module name="jdk8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chinaunicom.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinaunicom.functionInterface.Test" />
+      <module name="jdk8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chinaunicom.functionInterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.59.346" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dpandora.location=D:\devSoftware\taobao-tomcat-7.0.59\deploy\taobao-hsf\taobao-hsf.sar" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_jdk8" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52305" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AbstractClassImpl" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.MyListSort" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.StreamTest6" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamTest6" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.MyListSort" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.AbstractClassImpl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="809db329-b9f7-4bc3-82e4-32e021670cd7" name="Default" comment="" />
+      <created>1564450689308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564450689308</updated>
+      <workItem from="1564450692690" duration="5278000" />
+      <workItem from="1564490537023" duration="599000" />
+      <workItem from="1564538443516" duration="5891000" />
+      <workItem from="1564649361754" duration="181000" />
+      <workItem from="1564650372004" duration="344000" />
+      <workItem from="1564997225562" duration="1387000" />
+      <workItem from="1565004336395" duration="2402000" />
+      <workItem from="1565055255448" duration="2867000" />
+      <workItem from="1565059801669" duration="7328000" />
+      <workItem from="1565249666886" duration="4677000" />
+      <workItem from="1565311076088" duration="5305000" />
+      <workItem from="1565575025806" duration="10000" />
+      <workItem from="1565660252269" duration="1456000" />
+      <workItem from="1565745135076" duration="4866000" />
+      <workItem from="1565919517166" duration="3634000" />
+      <workItem from="1566176457665" duration="630000" />
+      <workItem from="1566210954531" duration="4500000" />
+      <workItem from="1567996824153" duration="1051000" />
+      <workItem from="1568270297226" duration="172000" />
+      <workItem from="1568273258552" duration="1036000" />
+      <workItem from="1569392736489" duration="930000" />
+      <workItem from="1569393701548" duration="367000" />
+      <workItem from="1569394100881" duration="602000" />
+      <workItem from="1569394944368" duration="14000" />
+      <workItem from="1569466048723" duration="486000" />
+      <workItem from="1570434182688" duration="248000" />
+      <workItem from="1570505424024" duration="6000" />
+      <workItem from="1570706253997" duration="788000" />
+      <workItem from="1570707080806" duration="131000" />
+      <workItem from="1571276530748" duration="978000" />
+      <workItem from="1572867296147" duration="1706000" />
+      <workItem from="1572943059851" duration="4651000" />
+      <workItem from="1572955940717" duration="203000" />
+      <workItem from="1573002806129" duration="3887000" />
+      <workItem from="1573463296625" duration="1822000" />
+      <workItem from="1573471517929" duration="1093000" />
+      <workItem from="1573473500066" duration="235000" />
+      <workItem from="1573610503585" duration="284000" />
+      <workItem from="1573610816699" duration="302000" />
+      <workItem from="1573611147453" duration="728000" />
+      <workItem from="1573611902168" duration="954000" />
+      <workItem from="1573700724237" duration="655000" />
+      <workItem from="1573714252445" duration="30000" />
+      <workItem from="1579418445483" duration="648000" />
+      <workItem from="1584412011583" duration="1176000" />
+      <workItem from="1591951684312" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Homework_count - 2019.09.09 at 10h 42m 17s.xml">
+      <configuration name="Homework.count" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Homework_count - 2019.09.09 at 10h 42m 32s.xml">
+      <configuration name="Homework.count" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Homework_count - 2019.09.09 at 10h 47m 43s.xml">
+      <configuration name="Homework.count" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Homework_count - 2019.09.09 at 10h 47m 53s.xml">
+      <configuration name="Homework.count" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Homework_MD5Encode - 2019.09.25 at 14h 30m 42s.xml">
+      <configuration name="Homework.MD5Encode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Homework_MD5Encode - 2019.09.25 at 14h 32m 53s.xml">
+      <configuration name="Homework.MD5Encode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Homework_MD5Encode - 2019.09.25 at 14h 33m 02s.xml">
+      <configuration name="Homework.MD5Encode" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Homework_VarIncre - 2019.10.10 at 19h 21m 36s.xml">
+      <configuration name="Homework.VarIncre" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Homework_VarIncre - 2019.10.10 at 19h 22m 19s.xml">
+      <configuration name="Homework.VarIncre" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Homework_VarIncre - 2019.10.10 at 19h 23m 43s.xml">
+      <configuration name="Homework.VarIncre" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/chinaunicom/Homework.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jdk8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>order-conf-0.0.1-SNAPSHOT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

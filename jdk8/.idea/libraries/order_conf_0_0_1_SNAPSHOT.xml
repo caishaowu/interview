@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="order-conf-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/配置管理项目本地搭建资源/order-conf-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/service_conf-release_20190724.zip!/service_conf-release_20190724/order-conf-api/dataobject-api/.mvn/wrapper" />
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/service_conf-release_20190724.zip!/service_conf-release_20190724/order-conf-api/dataobject-api/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/service_conf-release_20190724.zip!/service_conf-release_20190724/order-conf-api/dictionary-api/.mvn/wrapper" />
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/service_conf-release_20190724.zip!/service_conf-release_20190724/order-conf-api/dictionary-api/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/service_conf-release_20190724.zip!/service_conf-release_20190724/order-conf-api/order-conf-tree-api/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/service_conf-release_20190724.zip!/service_conf-release_20190724/order-conf-api/order-separate-rule-api/.mvn/wrapper" />
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/service_conf-release_20190724.zip!/service_conf-release_20190724/order-conf-api/order-separate-rule-api/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/service_conf-release_20190724.zip!/service_conf-release_20190724/order-conf-api/servicemodule-api/.mvn/wrapper" />
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/service_conf-release_20190724.zip!/service_conf-release_20190724/order-conf-api/servicemodule-api/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/service_conf-release_20190724.zip!/service_conf-release_20190724/order-conf-api/taskoperator-api/.mvn/wrapper" />
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/service_conf-release_20190724.zip!/service_conf-release_20190724/order-conf-api/taskoperator-api/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/service_conf-release_20190724.zip!/service_conf-release_20190724/order-conf/src/main/java" />
+      <root url="jar://$USER_HOME$/Desktop/zhongtai/service_conf-release_20190724.zip!/service_conf-release_20190724/order-conf/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

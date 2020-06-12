@@ -2,92 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01a3321f-ac2d-421f-a3a0-599ee7db8938" name="Default" comment=" first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/interview.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P257.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P455.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P680.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P127.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P435.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/BaseBattercake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/Battercake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/BattercakeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/EggDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/HamDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/EventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/MouseEventCallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/MouseEventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/guava/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/guava/GuavaEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/deep/JinGuBang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/deep/Monkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/deep/SunWuKong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/ConcretePrototypeA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/PrototypeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/cglib/CglibMeipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/cglib/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/cglib/SingleDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/MeiPo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/SingleDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/staticproxy/Mother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/staticproxy/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/staticproxy/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/CashBackStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/CouponStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/EmptyStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/GroupbuyStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/PromotionActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/PromotionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/PromotionStrategyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/src/main/java/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AssertJSampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/JUnitSampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TicketSellerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TransactionServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyJDBCTemplate/target/classes/com/bettercsw/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyJDBCTemplate/target/classes/com/bettercsw/TestMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyJDBCTemplate/target/classes/com/bettercsw/service/impl/StuServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyJDBCTemplate/target/classes/com/bettercsw/service/impl/StuServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/service/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/BaseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/serviceImpl/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/util/Invocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/Invocation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/util/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/ProxyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/abstractfactory/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/abstractfactory/TestMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/TestMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/service/BaseService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/serviceImpl/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/util/Invocation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/util/ProxyFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/EnumSingleton.jad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketSeller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CoverageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CoverageTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +61,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/leetcode/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JPA/jdk8" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -172,7 +87,7 @@
       <recent name="D:\File\ProjectCode\interview\leetcode\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.MyList">
     <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bettercsw.strategy.Client" />
       <module name="pattern" />
@@ -201,13 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.observer.guava.Client" />
-      <module name="pattern" />
+    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chinaunicom.lambda.MyList" />
+      <module name="jdk8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bettercsw.observer.guava.*" />
+          <option name="PATTERN" value="com.chinaunicom.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -268,17 +183,17 @@
     <list>
       <item itemvalue="Application.Client (2)" />
       <item itemvalue="Application.Client (3)" />
-      <item itemvalue="Application.Client (5)" />
       <item itemvalue="Application.parent" />
       <item itemvalue="Application.P215" />
+      <item itemvalue="Application.MyList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyList" />
         <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.P215" />
         <item itemvalue="Application.Client (2)" />
         <item itemvalue="Application.parent" />
-        <item itemvalue="Application.Client (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -371,6 +286,7 @@
       <workItem from="1590737753074" duration="935000" />
       <workItem from="1590996954283" duration="17810000" />
       <workItem from="1591262398238" duration="3836000" />
+      <workItem from="1591951095643" duration="679000" />
     </task>
     <servers />
   </component>
@@ -412,10 +328,11 @@
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1589855115881" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585068971521" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591002979266" />
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1587955961656">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="2469" y="157" key="FileChooserDialogImpl" timestamp="1591951765859">
+      <screen x="1920" y="3" width="1536" height="824" />
     </state>
     <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587955961656" />
+    <state x="2469" y="157" key="FileChooserDialogImpl/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591951765859" />
     <state width="1493" height="184" key="GridCell.Tab.0.bottom" timestamp="1591339233476">
       <screen x="1920" y="3" width="1536" height="824" />
     </state>
@@ -472,10 +389,15 @@
     <state width="1493" height="135" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588001047357" />
     <state width="1493" height="231" key="GridCell.Tab.1.right/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591091803491" />
     <state width="1478" height="230" key="GridCell.Tab.1.right/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591172921100" />
-    <state x="270" y="55" key="SettingsEditor" timestamp="1590030078125">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="2349" y="113" key="NewModule_or_Project.wizard" timestamp="1591951767883">
+      <screen x="1920" y="3" width="1536" height="824" />
+    </state>
+    <state x="2349" y="113" key="NewModule_or_Project.wizard/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591951767883" />
+    <state x="2190" y="3" key="SettingsEditor" timestamp="1591951773839">
+      <screen x="1920" y="3" width="1536" height="824" />
     </state>
     <state x="270" y="55" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590030078125" />
+    <state x="2190" y="3" key="SettingsEditor/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591951773839" />
     <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590996966253">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -484,11 +406,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="247" y="164" width="642" height="534" key="find.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590632409862" />
-    <state x="2178" y="31" key="new project wizard" timestamp="1591149977246">
+    <state x="2178" y="31" key="new project wizard" timestamp="1591951734629">
       <screen x="1920" y="3" width="1536" height="824" />
     </state>
     <state x="258" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587289939208" />
-    <state x="2178" y="31" key="new project wizard/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591149977246" />
+    <state x="2178" y="31" key="new project wizard/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591951734629" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591090636047">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

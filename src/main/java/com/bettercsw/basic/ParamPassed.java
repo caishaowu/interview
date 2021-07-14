@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * Java方法的参数传递机制
+ *
  * @author csw
  * @date
  */
@@ -16,9 +17,9 @@ public class ParamPassed {
 
         //栈
         Integer num2 = 125;
-        int[] arr = {1,2,3,4,5};
+        int[] arr = {1, 2, 3, 4, 5};
         MyData myData = new MyData();
-        change(i,str,num1,num2,arr,myData);
+        change(i, str, num1, num2, arr, myData);
         System.out.println("i = " + i);
         System.out.println("str = " + str);
         System.out.println("num1 = " + num1);
@@ -27,7 +28,8 @@ public class ParamPassed {
         System.out.println("myData.a = " + myData.a);
 
     }
-    public static void change(int j,String s,Integer n1,Integer n2,int[] a,MyData m){
+
+    public static void change(int j, String s, Integer n1, Integer n2, int[] a, MyData m) {
         j += 1;
         s += "world";
         n1 += 1;
@@ -36,6 +38,7 @@ public class ParamPassed {
         m.a += 1;
     }
 }
+
 class MyData {
     int a = 10;
 }

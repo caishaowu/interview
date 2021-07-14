@@ -18,7 +18,7 @@ public class OptionalTest {
 //        }
 
         //函数式编程，推荐
-        hi.ifPresent(str-> System.out.println(str));
+        hi.ifPresent(str -> System.out.println(str));
         //若optional为空，则输出world
         System.out.println(optional.orElse("world"));
         System.out.println(optional.orElseGet(() -> "nihao"));

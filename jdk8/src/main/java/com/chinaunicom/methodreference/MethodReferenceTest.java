@@ -12,19 +12,21 @@ import java.util.function.Supplier;
  * @date
  */
 public class MethodReferenceTest {
-    public String getString(Supplier<String> supplier){
+    public String getString(Supplier<String> supplier) {
         return supplier.get();
     }
-    public String getString(String str, Function<String,String> function){
+
+    public String getString(String str, Function<String, String> function) {
         return function.apply(str);
     }
-    public static void main(String[] args) {
-        Person p1 = new Person("zhangsan",15);
-        Person p2 = new Person("lisi",10);
-        Person p3 = new Person("wangwu",32);
-        Person p4 = new Person("zhaoliu",30);
 
-        List<Person> list = Arrays.asList(p1,p2,p3,p4);
+    public static void main(String[] args) {
+        Person p1 = new Person("zhangsan", 15);
+        Person p2 = new Person("lisi", 10);
+        Person p3 = new Person("wangwu", 32);
+        Person p4 = new Person("zhaoliu", 30);
+
+        List<Person> list = Arrays.asList(p1, p2, p3, p4);
         //类名：：静态方法名
 //        list.sort(Person::comparePersonByAge);
 //        list.forEach(System.out::println);
@@ -42,6 +44,6 @@ public class MethodReferenceTest {
         MethodReferenceTest methodReferenceTest = new MethodReferenceTest();
 //      methodReferenceTest.getString(()->new String());
         methodReferenceTest.getString(String::new);
-        methodReferenceTest.getString("hi",String::new);
+        methodReferenceTest.getString("hi", String::new);
     }
 }

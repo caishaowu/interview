@@ -9,6 +9,7 @@ public enum EnumSingleton {
     单例对象
      */
     INSTANCE;
+
     public void operation() {
 
     }

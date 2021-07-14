@@ -22,14 +22,15 @@ public class TestEnumSingleton {
             e.printStackTrace();
         }
     }
+
     @Test
     public void test2() {
 
         try {
             Class clazz = EnumSingleton.class;
-            Constructor c = clazz.getDeclaredConstructor(String.class,int.class);
+            Constructor c = clazz.getDeclaredConstructor(String.class, int.class);
             c.setAccessible(true);
-            EnumSingleton tom = (EnumSingleton)c.newInstance("Tom", 666);
+            EnumSingleton tom = (EnumSingleton) c.newInstance("Tom", 666);
         } catch (Exception e) {
             e.printStackTrace();
         }

@@ -10,10 +10,10 @@ public class StreamTest3 {
     public static void main(String[] args) {
 
 
-        IntStream.of(1,2,3).forEach(System.out::println);
+        IntStream.of(1, 2, 3).forEach(System.out::println);
         //[3,8)
-        IntStream.range(3,8).forEach(System.out::println);
+        IntStream.range(3, 8).forEach(System.out::println);
         //[3,8]
-        IntStream.rangeClosed(3,8).forEach(System.out::println);
+        IntStream.rangeClosed(3, 8).forEach(System.out::println);
     }
 }

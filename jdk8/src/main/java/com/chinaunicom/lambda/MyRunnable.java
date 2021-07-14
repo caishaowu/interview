@@ -15,7 +15,7 @@ public class MyRunnable {
         });
         thread.start();
 
-         new Thread( ()-> System.out.println("after jdk1.8")).start();
+        new Thread(() -> System.out.println("after jdk1.8")).start();
 
     }
 }

@@ -2,6 +2,7 @@ package com.bettercsw.proxy.dynamic.case1;
 
 /**
  * 接口实现类
+ *
  * @author csw
  * @date 2019/11/14 15:07
  */

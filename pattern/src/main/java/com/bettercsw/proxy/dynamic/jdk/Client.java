@@ -9,7 +9,7 @@ import com.bettercsw.proxy.staticproxy.Person;
 public class Client {
     public static void main(String[] args) {
         try {
-            Person obj =   (Person)new MeiPo().getInstance(new SingleDog());
+            Person obj = (Person) new MeiPo().getInstance(new SingleDog());
             obj.findLove();
         } catch (Exception e) {
             e.printStackTrace();

@@ -9,6 +9,7 @@ import java.lang.reflect.Method;
 
 /**
  * 监听器的一种包装，标准事件原格式的定义
+ *
  * @author csw
  * @date 2020/5/25 16:15
  */
@@ -16,10 +17,11 @@ import java.lang.reflect.Method;
 @ToString
 public class Event {
 
-    public Event(Object target,Method callback) {
+    public Event(Object target, Method callback) {
         this.target = target;
         this.callback = callback;
     }
+
     /**
      * 事件源，事件是由谁发起的，保存起来
      */

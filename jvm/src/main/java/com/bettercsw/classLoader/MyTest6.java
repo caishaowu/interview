@@ -13,15 +13,18 @@ public class MyTest6 {
         System.out.println(MyChild6.b);
     }
 }
+
 class MyParent6 {
     static int a = 4;
+
     static {
         System.out.println("i am parent");
     }
 }
 
-class MyChild6 extends MyParent6{
+class MyChild6 extends MyParent6 {
     static int b = 5;
+
     static {
         System.out.println("i am child");
     }

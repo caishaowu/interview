@@ -7,7 +7,7 @@ package com.bettercsw.singleton;
 public class LazyInnerClassSingleton {
 
     private LazyInnerClassSingleton() {
-        if(InnerClass.LAZY != null) {
+        if (InnerClass.LAZY != null) {
             throw new RuntimeException("不允许创建多个实例");
         }
     }

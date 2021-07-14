@@ -25,16 +25,16 @@ public class AssertJSampleTest {
         Assertions.assertThat(date1).as("日期判断：比较日期大小").isBefore(date2).isAfter(date3).isEqualTo(date1);
 
         //List判断
-        List<String> list = Arrays.asList("a","b","c","d");
+        List<String> list = Arrays.asList("a", "b", "c", "d");
         Assertions.assertThat(list).as("List 的判断：判断首尾元素及长度").startsWith("a").endsWith("d").hasSize(4);
 
         //Map判断
-        Map<String,Object> map = new HashMap<>();
-        map.put("A",1);
-        map.put("B",2);
-        map.put("C",3);
+        Map<String, Object> map = new HashMap<>();
+        map.put("A", 1);
+        map.put("B", 2);
+        map.put("C", 3);
         Set<String> set = map.keySet();
-        Assertions.assertThat(map).as("Map 的判断：长度及key值").hasSize(3).containsKeys("A","B","C");
+        Assertions.assertThat(map).as("Map 的判断：长度及key值").hasSize(3).containsKeys("A", "B", "C");
 
     }
 }

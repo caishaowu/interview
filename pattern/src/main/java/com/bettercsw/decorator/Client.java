@@ -24,7 +24,10 @@ public class Client {
         //装饰者模式会更多考虑扩展
         System.out.println(battercake.getMsg() + ",总价：" + battercake.getPrice());
 
-
+        Class parent = Battercake.class;
+        Class clazz = BaseBattercake.class;
+        //clazz是parent类或者parent的子类
+        System.out.println(parent.isAssignableFrom(clazz));
 
 
     }

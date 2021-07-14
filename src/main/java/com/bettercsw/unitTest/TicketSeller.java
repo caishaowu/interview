@@ -15,7 +15,7 @@ public class TicketSeller {
 
     public Integer sell(Integer inventory) throws TicketException {
         this.inventory = this.inventory - inventory;
-        if(this.inventory < 0) {
+        if (this.inventory < 0) {
             throw new TicketException();
         }
         return this.inventory;

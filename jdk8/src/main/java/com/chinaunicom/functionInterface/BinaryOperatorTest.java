@@ -12,14 +12,16 @@ public class BinaryOperatorTest {
         BinaryOperatorTest binaryOperator = new BinaryOperatorTest();
         System.out.println(binaryOperator.compute(1, 2, (a, b) -> a + b));
 
-        System.out.println(binaryOperator.minStr("hello1","world",(a,b)-> a.length() - b.length()));
-        System.out.println(binaryOperator.minStr("hello1","world",(a,b)->a.charAt(0) - b.charAt(0)));
+        System.out.println(binaryOperator.minStr("hello1", "world", (a, b) -> a.length() - b.length()));
+        System.out.println(binaryOperator.minStr("hello1", "world", (a, b) -> a.charAt(0) - b.charAt(0)));
 
     }
-    private int compute(int a, int b, BinaryOperator<Integer> binaryOperator){
-        return binaryOperator.apply(a,b);
+
+    private int compute(int a, int b, BinaryOperator<Integer> binaryOperator) {
+        return binaryOperator.apply(a, b);
     }
-    private String minStr(String a, String b, Comparator<String> comparator){
-        return BinaryOperator.minBy(comparator).apply(a,b);
+
+    private String minStr(String a, String b, Comparator<String> comparator) {
+        return BinaryOperator.minBy(comparator).apply(a, b);
     }
 }

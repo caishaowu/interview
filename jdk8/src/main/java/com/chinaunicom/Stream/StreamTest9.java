@@ -13,10 +13,10 @@ import java.util.stream.Collectors;
  */
 public class StreamTest9 {
     public static void main(String[] args) {
-        Person person1 = new Person("zhangsan",20);
-        Person person2 = new Person("lisi",23);
-        Person person3= new Person("wangwu",23);
-        Person person4 = new Person("zhangsan",25);
+        Person person1 = new Person("zhangsan", 20);
+        Person person2 = new Person("lisi", 23);
+        Person person3 = new Person("wangwu", 23);
+        Person person4 = new Person("zhangsan", 25);
         List<Person> list = Arrays.asList(person1, person2, person3, person4);
         //根据名字进行分组
 //        Map<String, List<Person>> map = list.stream().collect(Collectors.groupingBy(Person::getUsername));
@@ -27,7 +27,6 @@ public class StreamTest9 {
         //分区，一区为true，一区为false
         Map<Boolean, List<Person>> map = list.stream().collect(Collectors.partitioningBy(person -> person.getAge() <= 23));
         System.out.println(map);
-
 
 
     }

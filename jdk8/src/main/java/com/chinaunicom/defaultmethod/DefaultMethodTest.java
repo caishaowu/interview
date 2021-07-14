@@ -9,12 +9,12 @@ import java.util.Map;
  * @author csw
  * @date
  */
-public class DefaultMethodTest extends MyInterface1Impl implements  MyInterface2{
+public class DefaultMethodTest extends MyInterface1Impl implements MyInterface2 {
 
     public static void main(String[] args) {
         DefaultMethodTest test = new DefaultMethodTest();
         test.defaultMethod();
-        List<Map<String,Object>> variables = new ArrayList<>();
+        List<Map<String, Object>> variables = new ArrayList<>();
 
 
     }

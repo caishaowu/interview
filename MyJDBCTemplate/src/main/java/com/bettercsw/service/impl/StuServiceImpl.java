@@ -24,15 +24,15 @@ public class StuServiceImpl implements StuService {
         try {
             conn = JDBCUtil.getConnection();
             ps = conn.prepareStatement(sql);
-            ps.setObject(1,stu.getSno());
-            ps.setObject(2,stu.getSname());
-            ps.setObject(3,stu.getSsex());
+            ps.setObject(1, stu.getSno());
+            ps.setObject(2, stu.getSname());
+            ps.setObject(3, stu.getSsex());
             ps.executeUpdate();
 
         } catch (SQLException e) {
             e.printStackTrace();
-        }finally {
-            JDBCUtil.close(null,conn,ps);
+        } finally {
+            JDBCUtil.close(null, conn, ps);
         }
 
 
@@ -47,13 +47,13 @@ public class StuServiceImpl implements StuService {
         try {
             conn = JDBCUtil.getConnection();
             ps = conn.prepareStatement(sql);
-            ps.setObject(1,str);
+            ps.setObject(1, str);
             ps.executeUpdate();
 
         } catch (SQLException e) {
             e.printStackTrace();
-        }finally {
-            JDBCUtil.close(null,conn,ps);
+        } finally {
+            JDBCUtil.close(null, conn, ps);
         }
     }
 
@@ -79,17 +79,17 @@ public class StuServiceImpl implements StuService {
             conn = JDBCUtil.getConnection();
             ps = conn.prepareStatement(sql);
             rs = ps.executeQuery();
-            while(rs.next()) {
+            while (rs.next()) {
                 String sno = rs.getString("sno");
                 String sname = rs.getString("sname");
                 String ssex = rs.getString("ssex");
-                Student stu = new Student(sno,sname,ssex);
+                Student stu = new Student(sno, sname, ssex);
                 result.add(stu);
             }
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {
-          JDBCUtil.close(rs,conn,ps);
+            JDBCUtil.close(rs, conn, ps);
         }
         return result;
     }
@@ -97,8 +97,8 @@ public class StuServiceImpl implements StuService {
     @Override
     public void save2(Student stu) {
         String sql = "INSERT INTO student(sno,sname,ssex) values(?,?,?)";
-        Object[] params = new Object[]{stu.getSno(),stu.getSname(),stu.getSsex()};
-        JDBCTemplate.update(sql,params);
+        Object[] params = new Object[]{stu.getSno(), stu.getSname(), stu.getSsex()};
+        JDBCTemplate.update(sql, params);
     }
 
     @Override

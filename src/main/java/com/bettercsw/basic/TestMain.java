@@ -7,7 +7,7 @@ import java.io.*;
  * @date 2019/12/9 11:01
  */
 public class TestMain {
-    public static void main(String[] args) throws IOException, ClassNotFoundException{
+    public static void main(String[] args) throws IOException, ClassNotFoundException {
 
         Test a1 = new Test(123, "abc");
         String objectFile = "test";

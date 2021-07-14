@@ -20,15 +20,17 @@ public class TransactionServiceTest {
 
             }
         }
+
         @Nested
         @DisplayName("负向测试用例")
-        class NegativeCase{
+        class NegativeCase {
 
         }
     }
+
     @Nested
     @DisplayName("商家交易测试")
     class CompanyTransactionTest {
-        
+
     }
 }

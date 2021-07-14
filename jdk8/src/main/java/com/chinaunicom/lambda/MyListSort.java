@@ -11,9 +11,9 @@ import java.util.List;
  */
 public class MyListSort {
     public static void main(String[] args) {
-        List<Integer> list = Arrays.asList(1,2,3,-5,0,30);
+        List<Integer> list = Arrays.asList(1, 2, 3, -5, 0, 30);
         //JDK1.7写法
-        Collections.sort(list,new Comparator<Integer>() {
+        Collections.sort(list, new Comparator<Integer>() {
             @Override
             public int compare(Integer o1, Integer o2) {
                 return o1 - o2;

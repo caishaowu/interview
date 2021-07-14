@@ -5,6 +5,7 @@ import java.lang.reflect.InvocationTargetException;
 
 /**
  * 利用反射破坏单例模式
+ *
  * @author csw
  * @date 2019/11/29 15:36
  */
@@ -20,7 +21,7 @@ public class LazyInnerClassSingletonTest {
             Object o1 = c.newInstance();
             //调用了两次构造方法，产生了两个实例
             Object o2 = c.newInstance();
-        }  catch (Exception e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }

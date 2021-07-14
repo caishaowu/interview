@@ -9,15 +9,16 @@ import java.util.Map;
  */
 public class PromotionStrategyFactory {
 
-    private static Map<String,PromotionStrategy> PROMOTION_STRATEGY_MAP = new HashMap<>();
+    private static Map<String, PromotionStrategy> PROMOTION_STRATEGY_MAP = new HashMap<>();
 
     static {
-        PROMOTION_STRATEGY_MAP.put(PromotionKey.CASHBACK,new CashBackStrategy());
-        PROMOTION_STRATEGY_MAP.put(PromotionKey.COUPON,new CouponStrategy());
-        PROMOTION_STRATEGY_MAP.put(PromotionKey.GROUPBUY,new GroupbuyStrategy());
+        PROMOTION_STRATEGY_MAP.put(PromotionKey.CASHBACK, new CashBackStrategy());
+        PROMOTION_STRATEGY_MAP.put(PromotionKey.COUPON, new CouponStrategy());
+        PROMOTION_STRATEGY_MAP.put(PromotionKey.GROUPBUY, new GroupbuyStrategy());
     }
 
-    private PromotionStrategyFactory(){}
+    private PromotionStrategyFactory() {
+    }
 
     private static final PromotionStrategy NON_PROMOTION = new EmptyStrategy();
 

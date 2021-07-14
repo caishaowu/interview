@@ -16,5 +16,4 @@ public class SingleDog implements Person {
     }
 
 
-
 }

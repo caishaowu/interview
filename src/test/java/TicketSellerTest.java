@@ -58,7 +58,7 @@ public class TicketSellerTest {
     @DisplayName("余票不足应报错")
     public void shouldThrowExceptionWhenNoEnoughInventory() {
         ticketSeller.setInventory(0);
-        assertThatExceptionOfType(TicketException.class).isThrownBy( () -> {
+        assertThatExceptionOfType(TicketException.class).isThrownBy(() -> {
             ticketSeller.sell(1);
         }).withMessageContaining("all ticket sold out").withNoCause();
     }

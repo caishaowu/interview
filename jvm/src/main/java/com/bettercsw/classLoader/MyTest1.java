@@ -1,7 +1,6 @@
 package com.bettercsw.classLoader;
 
 /**
- *
  * 对于静态字段来说，只有直接定义了该字段的类才会被初始化
  * 当一个类在初始化时，要求父类全部都已经初始化完毕
  * -XX:+TraceClassLoading 用于追踪类的加载信息并打印出来
@@ -20,8 +19,10 @@ public class MyTest1 {
     }
 
 }
-class MyChild1 extends MyParent1{
+
+class MyChild1 extends MyParent1 {
     public static String str2 = "myChild1";
+
     static {
         System.out.println("i am child1");
     }
@@ -30,6 +31,7 @@ class MyChild1 extends MyParent1{
 
 class MyParent1 {
     public static String str = "hello world";
+
     static {
         System.out.println("i am parent1");
     }

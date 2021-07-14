@@ -25,9 +25,9 @@ public class StreamTest5 {
 
 
         //Stream的中间操作是Lazy的，没有遇到终止操作是不会执行 代码的
-        List<String> list =Arrays.asList("hello","world","hello world");
-        list.stream().map(item ->{
-            String result = item.substring(0,1).toUpperCase() + item.substring(1);
+        List<String> list = Arrays.asList("hello", "world", "hello world");
+        list.stream().map(item -> {
+            String result = item.substring(0, 1).toUpperCase() + item.substring(1);
             System.out.println("test");
             return result;
         });     //程序没有任何输出

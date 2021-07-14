@@ -2,10 +2,11 @@ package com.bettercsw.decorator;
 
 /**
  * 火腿类
+ *
  * @author csw
  * @date 2020/5/25 11:01
  */
-public class HamDecorator extends Battercake{
+public class HamDecorator extends Battercake {
 
     private Battercake battercake;
 

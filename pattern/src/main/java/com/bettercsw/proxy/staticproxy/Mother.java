@@ -6,10 +6,12 @@ package com.bettercsw.proxy.staticproxy;
  */
 public class Mother {
     private Son son;
+
     //没办法扩展
     public Mother(Son son) {
         this.son = son;
     }
+
     //帮儿子相亲
     public void findLove() {
         System.out.println("母亲物色对象");

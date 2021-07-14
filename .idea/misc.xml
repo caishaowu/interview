@@ -10,6 +10,10 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/MyJDBCTemplate/pom.xml" />
         <option value="$PROJECT_DIR$/../JPA/jdk8/pom.xml" />
+        <option value="$PROJECT_DIR$/jdk8/pom.xml" />
+        <option value="D:/multi-thread/pom.xml" />
+        <option value="$PROJECT_DIR$/multi-thread/pom.xml" />
+        <option value="$PROJECT_DIR$/algorithm/pom.xml" />
       </list>
     </option>
   </component>

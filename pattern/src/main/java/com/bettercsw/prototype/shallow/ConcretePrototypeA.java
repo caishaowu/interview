@@ -6,11 +6,12 @@ import java.util.List;
 
 /**
  * 具体需要克隆的类
+ *
  * @author csw
  * @date 2020/5/19 14:23
  */
 @Data
-public class ConcretePrototypeA implements Prototype{
+public class ConcretePrototypeA implements Prototype {
     private Integer age;
     private String name;
     private List hobbies;

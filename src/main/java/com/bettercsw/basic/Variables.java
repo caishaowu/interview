@@ -8,13 +8,15 @@ public class Variables {
     static int s;
     int i;
     int j;
+
     {
         int i = 1;
         i++;
         j++;
         s++;
     }
-    public void test(int j){
+
+    public void test(int j) {
         j++;
 
         i++;

@@ -16,6 +16,6 @@ public class StreamTest4 {
 //        List<String> list1 = stream.collect(Collectors.toList());
 //        List<String> list2 = stream.collect(()->new ArrayList<String>(),(theList,item) -> theList.add(item),
 //                (theList1,theList2)->theList1.addAll(theList2));
-        List<String> list3 = stream.collect(LinkedList::new,LinkedList::add,LinkedList::addAll);
+        List<String> list3 = stream.collect(LinkedList::new, LinkedList::add, LinkedList::addAll);
     }
 }

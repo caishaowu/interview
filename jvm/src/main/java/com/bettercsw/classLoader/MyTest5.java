@@ -23,6 +23,7 @@ class Singleton {
         counter2++;
         counter3++;
     }
+
     public static int counter3 = 0;
 
     public static Singleton getInstance() {

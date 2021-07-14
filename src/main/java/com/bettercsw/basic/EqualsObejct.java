@@ -14,7 +14,7 @@ import java.util.Objects;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class EqualsObejct implements Serializable{
+public class EqualsObejct implements Serializable {
     private String name;
     private int id;
 
@@ -26,7 +26,6 @@ public class EqualsObejct implements Serializable{
         return this.id == that.getId() &&
                 this.name.equals(that.getName());
     }
-
 
 
 // @Override

@@ -14,12 +14,12 @@ import java.util.Optional;
  */
 public class OptionalTest2 {
     public static void main(String[] args) {
-        Employee employee = new Employee("zhangsan",24);
-        Employee employee2 = new Employee("lisi",32);
-        List<Employee> list = Arrays.asList(employee,employee2);
-        Company myCompany = new Company("myCompany",list);
+        Employee employee = new Employee("zhangsan", 24);
+        Employee employee2 = new Employee("lisi", 32);
+        List<Employee> list = Arrays.asList(employee, employee2);
+        Company myCompany = new Company("myCompany", list);
         Optional<Company> optional = Optional.ofNullable(myCompany);
-        System.out.println(optional.map( company -> company.getEmployees()).
+        System.out.println(optional.map(company -> company.getEmployees()).
                 orElse(Collections.emptyList()));
     }
 }

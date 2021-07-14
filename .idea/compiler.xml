@@ -7,13 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="sort" />
         <module name="jvm" />
-        <module name="pattern" />
-        <module name="MyJDBCTemplate" />
-        <module name="leetcode" />
+        <module name="multi-thread" />
         <module name="jdk8" />
+        <module name="pattern" />
+        <module name="leetcode" />
+        <module name="MyJDBCTemplate" />
+        <module name="algorithm" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="multi-thread_integrationTest" target="1.8" />
+      <module name="multi-thread_main" target="1.8" />
+      <module name="multi-thread_test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

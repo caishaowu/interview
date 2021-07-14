@@ -1,8 +1,274 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="01a3321f-ac2d-421f-a3a0-599ee7db8938" name="Default" comment=" first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/EightQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/minDist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/dynamic/minCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/dynamic/minDist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/search/BM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/search/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/search/BitMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/search/KMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/search/TrieTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/testThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/FilterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/dp/P198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/dp/P238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P242.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P349.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P239.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/linklist/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/linklist/P206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/linklist/P21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/linklist/P328.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P187.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/queue/BlockingQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/InterruptTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/MyAQS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/StateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/exercise/SequencePrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/exercise/SequencePrint2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/pattern/GuardedObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/pattern/ProducerAndConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/pattern/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/PlaceholderHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/TestVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/provinces.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/service/StuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/service/StuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/service/impl/StuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/service/impl/StuServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/template/JDBCTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/template/JDBCTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/util/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/util/JDBCUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Optional/OptionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Optional/OptionalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Optional/OptionalTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Optional/OptionalTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest6.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest8.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest9.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/DefaultMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/DefaultMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/MyInterface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/MyInterface1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/MyInterface1Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/MyInterface1Impl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/MyInterface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/MyInterface2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/BinaryOperatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/BinaryOperatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/FunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/FunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/FunctionTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/FunctionTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/PredicateTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/PredicateTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/SupplierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/SupplierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/MyListSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/MyListSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/MyRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/StringComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/StringComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/methodreference/MethodReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/methodreference/MethodReferenceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/pojo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/pojo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/test/java/com/chinaunicom/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/test/java/com/chinaunicom/Homework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/MyInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/MyInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/Stream/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/Stream/StreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/Stream/StreamTest9.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/Stream/StreamTest9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/defaultmethod/DefaultMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/defaultmethod/DefaultMethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/BinaryOperatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/BinaryOperatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/FunctionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/FunctionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/FunctionTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/FunctionTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/PredicateTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/PredicateTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/methodreference/MethodReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/methodreference/MethodReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/pojo/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/pojo/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/target/test-classes/com/chinaunicom/Homework.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/test-classes/com/chinaunicom/Homework.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest6.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest7.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm/target/classes/META-INF/jvm.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P257.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P257.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P455.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P455.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P680.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P680.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P127.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P127.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P215.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P215.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P435.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P435.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P257$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P257$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P257.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P257.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P455.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P455.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P680.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P680.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/medium/P215.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/medium/P215.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/BaseBattercake.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/BaseBattercake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/Battercake.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/Battercake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/EggDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/EggDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/HamDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/HamDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/AudiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/AudiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/BmwFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/BmwFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/ICarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/ICarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/EventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/EventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/MouseEventCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/MouseEventCallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/deep/JinGuBang.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/deep/JinGuBang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/deep/SunWuKong.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/deep/SunWuKong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/ConcretePrototypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/ConcretePrototypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/Prototype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/PrototypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/PrototypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/BaseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/Invocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/Invocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/ProxyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/cglib/CglibMeipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/cglib/CglibMeipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/cglib/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/cglib/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/MeiPo.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/MeiPo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/SingleDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/SingleDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/staticproxy/Mother.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/staticproxy/Mother.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/staticproxy/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/staticproxy/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/EnumSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/EnumSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/HungrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/HungrySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyDoubleCheckSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyDoubleCheckSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyInnerClassSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyInnerClassSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyInnerClassSingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyInnerClassSingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazySimpleSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazySimpleSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/SerializableSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/SerializableSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/SerializableSingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/SerializableSingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/util/ExecutorThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/util/ExecutorThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/CashBackStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/CashBackStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/CouponStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/CouponStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/EmptyStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/EmptyStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/GroupbuyStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/GroupbuyStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/PromotionActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/PromotionActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/PromotionStrategyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/PromotionStrategyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/src/test/java/com/bettercsw/TestEnumSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/test/java/com/bettercsw/TestEnumSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/META-INF/pattern.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/BaseBattercake.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/BaseBattercake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/EggDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/EggDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/HamDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/HamDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/methodfactory/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/methodfactory/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/EventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/EventListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/MouseEventCallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/MouseEventCallback.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/prototype/deep/JinGuBang.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/prototype/deep/JinGuBang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/prototype/shallow/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/prototype/shallow/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/prototype/shallow/ConcretePrototypeA.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/prototype/shallow/ConcretePrototypeA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/case1/Invocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/case1/Invocation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/case1/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/case1/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/case1/ProxyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/case1/ProxyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/cglib/CglibMeipo.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/cglib/CglibMeipo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/jdk/MeiPo.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/jdk/MeiPo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/staticproxy/Mother.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/staticproxy/Mother.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/EnumSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/EnumSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/HungrySingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/HungrySingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazyDoubleCheckSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazyDoubleCheckSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazyInnerClassSingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazyInnerClassSingletonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazySimpleSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazySimpleSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/SerializableSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/SerializableSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/SerializableSingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/SerializableSingletonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/strategy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/strategy/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/strategy/PromotionActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/strategy/PromotionActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/strategy/PromotionStrategyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/strategy/PromotionStrategyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pattern/target/test-classes/com/bettercsw/TestEnumSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/test-classes/com/bettercsw/TestEnumSingleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sort/src/main/java/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/EqualsObejct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/EqualsObejct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/ParamPassed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/ParamPassed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Variables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/thread/CsGameByThreadLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/thread/CsGameByThreadLocal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/CoverageSampleMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/CoverageSampleMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketSeller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AssertJSampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AssertJSampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CoverageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CoverageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JUnitSampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnitSampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TicketSellerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TicketSellerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TransactionServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TransactionServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/MyData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/MyData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/ParamPassed.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/ParamPassed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Son.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Variables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/unitTest/TicketException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/unitTest/TicketException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CoverageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CoverageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TransactionServiceTest$CompanyTransactionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TransactionServiceTest$CompanyTransactionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TransactionServiceTest$UserTransactionTest$NegativeCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TransactionServiceTest$UserTransactionTest$NegativeCase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +288,23 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/multi-thread">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,7 +326,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\devSoftware\apache-maven-3.6.1\maven_resp" />
-        <option name="mavenHome" value="D:/devSoftware/apache-maven-3.6.1" />
+        <option name="mavenHome" value="D:\devSoftware\apache-maven-3.6.1" />
         <option name="userSettingsFile" value="D:\devSoftware\apache-maven-3.6.1\conf\settings_tianti_2.xml" />
       </MavenGeneralSettings>
     </option>
@@ -52,16 +335,19 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Enum&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Enum.java&#10;Inte&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Integer.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JPA/jdk8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -76,25 +362,34 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\File\ProjectCode\server\study\interview\src\main\resources" />
+      <recent name="D:\File\ProjectCode\server\study\interview\src\main\java" />
+      <recent name="D:\File\ProjectCode\server\interview" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bettercsw" />
+      <recent name="com.bettercsw.strategy" />
+      <recent name="com.bettercsw.test" />
       <recent name="com.bettercsw.classLoader" />
       <recent name="com.bettercsw.factory.methodfactory" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\File\ProjectCode\server\study\interview\src\main\resources" />
+      <recent name="D:\File\ProjectCode\server\study\interview\src\main\resources\json" />
+      <recent name="D:\File\ProjectCode\server\study\interview\multi-thread\src\main\resources" />
       <recent name="D:\File\ProjectCode\server\interview\leetcode\src\main\resources" />
       <recent name="D:\File\ProjectCode\interview\leetcode\src\main\java\com\bettercsw\easy" />
-      <recent name="D:\File\ProjectCode\interview\leetcode\src\main\java\com\bettercsw\medium" />
-      <recent name="D:\File\ProjectCode\interview\leetcode\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyList">
-    <configuration name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.strategy.Client" />
+  <component name="RunManager" selected="Application.TestMain">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bettercsw.observer.Client" />
       <module name="pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bettercsw.strategy.*" />
+          <option name="PATTERN" value="com.bettercsw.observer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,13 +397,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.decorator.Client" />
-      <module name="pattern" />
+    <configuration name="P26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bettercsw.easy.P26" />
+      <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bettercsw.decorator.*" />
+          <option name="PATTERN" value="com.bettercsw.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,27 +411,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.chinaunicom.lambda.MyList" />
-      <module name="jdk8" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.chinaunicom.lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.medium.P215" />
+    <configuration name="P39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bettercsw.medium.P39" />
       <module name="leetcode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.bettercsw.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bettercsw.Test" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bettercsw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bettercsw.TestMain" />
+      <module name="interview" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bettercsw.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +459,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.test.parent" />
-      <module name="pattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bettercsw.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="Grails: multi-thread" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="$PROJECT_DIR$/multi-thread" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
@@ -181,22 +499,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client (2)" />
-      <item itemvalue="Application.Client (3)" />
-      <item itemvalue="Application.parent" />
-      <item itemvalue="Application.P215" />
-      <item itemvalue="Application.MyList" />
+      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.TestMain" />
+      <item itemvalue="Application.P26" />
+      <item itemvalue="Application.P39" />
+      <item itemvalue="Grails.Grails: multi-thread" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyList" />
-        <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.P215" />
-        <item itemvalue="Application.Client (2)" />
-        <item itemvalue="Application.parent" />
+        <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.P39" />
+        <item itemvalue="Application.P26" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -286,12 +606,236 @@
       <workItem from="1590737753074" duration="935000" />
       <workItem from="1590996954283" duration="17810000" />
       <workItem from="1591262398238" duration="3836000" />
-      <workItem from="1591951095643" duration="679000" />
+      <workItem from="1591951095643" duration="2240000" />
+      <workItem from="1592272857196" duration="740000" />
+      <workItem from="1592384675974" duration="589000" />
+      <workItem from="1592445488532" duration="7588000" />
+      <workItem from="1592630614767" duration="12000" />
+      <workItem from="1592904394408" duration="4536000" />
+      <workItem from="1593240404327" duration="15000" />
+      <workItem from="1593241021752" duration="1332000" />
+      <workItem from="1593332515949" duration="691000" />
+      <workItem from="1593483363765" duration="3953000" />
+      <workItem from="1593593339558" duration="11895000" />
+      <workItem from="1593999693139" duration="3471000" />
+      <workItem from="1594176894577" duration="1340000" />
+      <workItem from="1594713211378" duration="868000" />
+      <workItem from="1594784156243" duration="3042000" />
+      <workItem from="1594800890121" duration="3032000" />
+      <workItem from="1594862899461" duration="25646000" />
+      <workItem from="1595211756193" duration="15951000" />
+      <workItem from="1595489175434" duration="794000" />
+      <workItem from="1595508523427" duration="37000" />
+      <workItem from="1595556482086" duration="12524000" />
+      <workItem from="1595816120561" duration="1407000" />
+      <workItem from="1595825412137" duration="830000" />
+      <workItem from="1595826461927" duration="1199000" />
+      <workItem from="1595829809696" duration="18085000" />
+      <workItem from="1595987885695" duration="23858000" />
+      <workItem from="1596158492388" duration="7623000" />
+      <workItem from="1596417829798" duration="3688000" />
+      <workItem from="1596524696798" duration="791000" />
+      <workItem from="1596526071084" duration="2711000" />
+      <workItem from="1596593039615" duration="9783000" />
+      <workItem from="1596767522769" duration="1420000" />
+      <workItem from="1596955721679" duration="76000" />
+      <workItem from="1597022451668" duration="5389000" />
+      <workItem from="1597112836216" duration="8608000" />
+      <workItem from="1597196788502" duration="11318000" />
+      <workItem from="1597281542303" duration="2232000" />
+      <workItem from="1597310253844" duration="8000" />
+      <workItem from="1597312525703" duration="668000" />
+      <workItem from="1597333416768" duration="819000" />
+      <workItem from="1597717883184" duration="13445000" />
+      <workItem from="1598232194241" duration="1797000" />
+      <workItem from="1598326484726" duration="666000" />
+      <workItem from="1598861522144" duration="3910000" />
+      <workItem from="1598946858782" duration="2183000" />
+      <workItem from="1599121075688" duration="2367000" />
+      <workItem from="1599634629254" duration="2665000" />
+      <workItem from="1599641613343" duration="673000" />
+      <workItem from="1599718385911" duration="2933000" />
+      <workItem from="1599725451512" duration="3176000" />
+      <workItem from="1600138678233" duration="4523000" />
+      <workItem from="1600161203127" duration="5109000" />
+      <workItem from="1600245774242" duration="3882000" />
+      <workItem from="1600335766161" duration="12000" />
+      <workItem from="1600828071466" duration="6486000" />
+      <workItem from="1600911578968" duration="5790000" />
+      <workItem from="1601360864002" duration="636000" />
+      <workItem from="1601361736091" duration="7089000" />
+      <workItem from="1602212218476" duration="15724000" />
+      <workItem from="1602733001708" duration="9872000" />
+      <workItem from="1602756240332" duration="964000" />
+      <workItem from="1603098964055" duration="8158000" />
+      <workItem from="1603767742423" duration="2352000" />
+      <workItem from="1604386537208" duration="5390000" />
+      <workItem from="1604886588241" duration="3270000" />
+      <workItem from="1604973753146" duration="5181000" />
+      <workItem from="1605149430287" duration="1348000" />
+      <workItem from="1605169842774" duration="3241000" />
+      <workItem from="1605252022376" duration="2331000" />
+      <workItem from="1605665201959" duration="1461000" />
+      <workItem from="1606202968888" duration="635000" />
+      <workItem from="1606462274737" duration="6411000" />
+      <workItem from="1606704543614" duration="5553000" />
+      <workItem from="1606803785799" duration="11295000" />
+      <workItem from="1607154144094" duration="3746000" />
+      <workItem from="1607305926812" duration="155000" />
+      <workItem from="1607668125668" duration="4221000" />
+      <workItem from="1607781139963" duration="1009000" />
+      <workItem from="1608002878957" duration="1246000" />
+      <workItem from="1608688452438" duration="2468000" />
+      <workItem from="1608779725811" duration="3323000" />
+      <workItem from="1609744501938" duration="1889000" />
+      <workItem from="1609984651177" duration="3464000" />
+      <workItem from="1610077013313" duration="1835000" />
+      <workItem from="1610330214293" duration="5654000" />
+      <workItem from="1610942468934" duration="806000" />
+      <workItem from="1611199359665" duration="1588000" />
+      <workItem from="1611242316226" duration="281000" />
+      <workItem from="1611558331354" duration="657000" />
+      <workItem from="1611567364683" duration="3989000" />
+      <workItem from="1611818116800" duration="2097000" />
+      <workItem from="1612938078390" duration="1066000" />
+      <workItem from="1613318529687" duration="34000" />
+      <workItem from="1613699446619" duration="3644000" />
+      <workItem from="1614234729371" duration="3219000" />
+      <workItem from="1614581964795" duration="3932000" />
+      <workItem from="1614757792223" duration="1484000" />
+      <workItem from="1614929685349" duration="1103000" />
+      <workItem from="1615359105919" duration="628000" />
+      <workItem from="1615364135938" duration="2094000" />
+      <workItem from="1615532505027" duration="1225000" />
+      <workItem from="1615794880098" duration="3364000" />
+      <workItem from="1615877238736" duration="903000" />
+      <workItem from="1615946894155" duration="2262000" />
+      <workItem from="1616378172844" duration="2919000" />
+      <workItem from="1618817592594" duration="1302000" />
+      <workItem from="1619076208808" duration="2790000" />
+      <workItem from="1619142102949" duration="5188000" />
+      <workItem from="1619340364921" duration="8477000" />
+      <workItem from="1619854275846" duration="3481000" />
+      <workItem from="1620541276618" duration="8964000" />
+      <workItem from="1620654459476" duration="2382000" />
+      <workItem from="1620721142161" duration="2090000" />
+      <workItem from="1621222611788" duration="900000" />
+      <workItem from="1621910502060" duration="1668000" />
+      <workItem from="1621996605861" duration="6425000" />
+      <workItem from="1622020975048" duration="600000" />
+      <workItem from="1622085832153" duration="14000" />
+      <workItem from="1623391680540" duration="651000" />
+      <workItem from="1623832558310" duration="1186000" />
+      <workItem from="1623895543492" duration="10469000" />
+      <workItem from="1624506971330" duration="8000" />
+      <workItem from="1624972760829" duration="1722000" />
+      <workItem from="1626169461944" duration="4196000" />
     </task>
+    <task id="LOCAL-00001" summary="feat($compile): short&#10;&#10;Long desc">
+      <created>1592384923526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592384923526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TraitInjectorService">
+    <option name="state">
+      <map>
+        <entry key="multi-thread_integrationTest">
+          <value>
+            <StateHolder>
+              <option name="knownFactories">
+                <list>
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/4.0.3/894b2e42f740dd473d57cf7efa574b11fb005bc0/grails-plugin-codecs-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/4.0.3/dd00a1386546b39a33b1aaaf6e5e120e65a87c31/grails-plugin-interceptors-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gsp/4.0.0/88a3db6f69000a0e26c38aead84142ad49ba147d/gsp-4.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/4.0.3/426fa34a8658be595ecca25d4222265bb1daced/grails-plugin-rest-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/4.0.3/45bf7d9314c04c914d8018740e0ea7d9ac6de730/grails-plugin-controllers-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-taglib/4.0.0/a187924c7e7011e12640b26f896135129f08e57e/grails-taglib-4.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/4.0.3/b5ed02efa5286889f525fc10168568f46c195b71/grails-plugin-domain-class-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/4.0.3/c5d0265808f68fa28c12c05b92a990d54307ab6f/grails-web-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-validation/4.0.3/2d8550f311b91e4fae11e9e12865bcc5fd86cb0b/grails-plugin-validation-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/4.0.3/4076baa8a6b20863a51b09ee95b45343e04a2517/grails-web-url-mappings-4.0.3.jar!/META-INF/services/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/4.0.3/4076baa8a6b20863a51b09ee95b45343e04a2517/grails-web-url-mappings-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-services/4.0.3/3f629c0f941ff4c25346e7780ce243fbb1d9d6c7/grails-plugin-services-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/4.0.3/9318ca8a7956a9466c7b8a1d62611613407f31b4/grails-web-common-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/7.0.4.RELEASE/27af86f39041cf8839a63cfa3b55b3a21415988f/grails-datastore-gorm-support-7.0.4.RELEASE.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/4.0.3/6322d58d6a5d4b8256acd42008896bed64f5d7ba/grails-core-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/converters/4.0.0/e364097f5e6f78fd102519c162442f4eeb0a5f42/converters-4.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/4.0.3/f79cd67c127c9106583fa79269a572c882f4be0c/grails-web-databinding-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-taglib/4.0.0/f21eccfb941aa0eda840e40ec2e9a57a8aa99271/grails-web-taglib-4.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/hibernate5/7.0.3/5f78063294f13c4b48cad85e6ea227ae90b5bc75/hibernate5-7.0.3.jar!/META-INF/grails.factories" />
+                </list>
+              </option>
+            </StateHolder>
+          </value>
+        </entry>
+        <entry key="multi-thread_main">
+          <value>
+            <StateHolder>
+              <option name="knownFactories">
+                <list>
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/4.0.3/894b2e42f740dd473d57cf7efa574b11fb005bc0/grails-plugin-codecs-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/4.0.3/dd00a1386546b39a33b1aaaf6e5e120e65a87c31/grails-plugin-interceptors-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gsp/4.0.0/88a3db6f69000a0e26c38aead84142ad49ba147d/gsp-4.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/4.0.3/426fa34a8658be595ecca25d4222265bb1daced/grails-plugin-rest-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/4.0.3/45bf7d9314c04c914d8018740e0ea7d9ac6de730/grails-plugin-controllers-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-taglib/4.0.0/a187924c7e7011e12640b26f896135129f08e57e/grails-taglib-4.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/4.0.3/b5ed02efa5286889f525fc10168568f46c195b71/grails-plugin-domain-class-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/4.0.3/c5d0265808f68fa28c12c05b92a990d54307ab6f/grails-web-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-validation/4.0.3/2d8550f311b91e4fae11e9e12865bcc5fd86cb0b/grails-plugin-validation-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/4.0.3/4076baa8a6b20863a51b09ee95b45343e04a2517/grails-web-url-mappings-4.0.3.jar!/META-INF/services/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/4.0.3/4076baa8a6b20863a51b09ee95b45343e04a2517/grails-web-url-mappings-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-services/4.0.3/3f629c0f941ff4c25346e7780ce243fbb1d9d6c7/grails-plugin-services-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/4.0.3/9318ca8a7956a9466c7b8a1d62611613407f31b4/grails-web-common-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/7.0.4.RELEASE/27af86f39041cf8839a63cfa3b55b3a21415988f/grails-datastore-gorm-support-7.0.4.RELEASE.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/4.0.3/6322d58d6a5d4b8256acd42008896bed64f5d7ba/grails-core-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/converters/4.0.0/e364097f5e6f78fd102519c162442f4eeb0a5f42/converters-4.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/4.0.3/f79cd67c127c9106583fa79269a572c882f4be0c/grails-web-databinding-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-taglib/4.0.0/f21eccfb941aa0eda840e40ec2e9a57a8aa99271/grails-web-taglib-4.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/hibernate5/7.0.3/5f78063294f13c4b48cad85e6ea227ae90b5bc75/hibernate5-7.0.3.jar!/META-INF/grails.factories" />
+                </list>
+              </option>
+            </StateHolder>
+          </value>
+        </entry>
+        <entry key="multi-thread_test">
+          <value>
+            <StateHolder>
+              <option name="knownFactories">
+                <list>
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/4.0.3/894b2e42f740dd473d57cf7efa574b11fb005bc0/grails-plugin-codecs-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/4.0.3/dd00a1386546b39a33b1aaaf6e5e120e65a87c31/grails-plugin-interceptors-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/gsp/4.0.0/88a3db6f69000a0e26c38aead84142ad49ba147d/gsp-4.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/4.0.3/426fa34a8658be595ecca25d4222265bb1daced/grails-plugin-rest-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/4.0.3/45bf7d9314c04c914d8018740e0ea7d9ac6de730/grails-plugin-controllers-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-taglib/4.0.0/a187924c7e7011e12640b26f896135129f08e57e/grails-taglib-4.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/4.0.3/b5ed02efa5286889f525fc10168568f46c195b71/grails-plugin-domain-class-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web/4.0.3/c5d0265808f68fa28c12c05b92a990d54307ab6f/grails-web-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-validation/4.0.3/2d8550f311b91e4fae11e9e12865bcc5fd86cb0b/grails-plugin-validation-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/4.0.3/4076baa8a6b20863a51b09ee95b45343e04a2517/grails-web-url-mappings-4.0.3.jar!/META-INF/services/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/4.0.3/4076baa8a6b20863a51b09ee95b45343e04a2517/grails-web-url-mappings-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-plugin-services/4.0.3/3f629c0f941ff4c25346e7780ce243fbb1d9d6c7/grails-plugin-services-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-common/4.0.3/9318ca8a7956a9466c7b8a1d62611613407f31b4/grails-web-common-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/7.0.4.RELEASE/27af86f39041cf8839a63cfa3b55b3a21415988f/grails-datastore-gorm-support-7.0.4.RELEASE.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-core/4.0.3/6322d58d6a5d4b8256acd42008896bed64f5d7ba/grails-core-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/converters/4.0.0/e364097f5e6f78fd102519c162442f4eeb0a5f42/converters-4.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-databinding/4.0.3/f79cd67c127c9106583fa79269a572c882f4be0c/grails-web-databinding-4.0.3.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails/grails-web-taglib/4.0.0/f21eccfb941aa0eda840e40ec2e9a57a8aa99271/grails-web-taglib-4.0.0.jar!/META-INF/grails.factories" />
+                  <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.grails.plugins/hibernate5/7.0.3/5f78063294f13c4b48cad85e6ea227ae90b5bc75/hibernate5-7.0.3.jar!/META-INF/grails.factories" />
+                </list>
+              </option>
+            </StateHolder>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -305,117 +849,85 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value=" first commit" />
+    <MESSAGE value="feat($compile): short&#10;&#10;Long desc" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat($compile): short&#10;&#10;Long desc" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Project_Structure" timestamp="1590738910287">
+    <state x="361" y="0" key="#Project_Structure" timestamp="1623832563895">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Project_Structure/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590738910287" />
-    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586959107206" />
-    <state x="2159" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591170481215">
-      <screen x="1920" y="3" width="1536" height="824" />
-    </state>
-    <state x="2159" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591170481215" />
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1591002675691">
+    <state x="361" y="0" key="#Project_Structure/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1619161675647" />
+    <state x="361" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1623832563895" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1620721247705">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590393800669" />
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591002675691" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591002979266">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1620721247705" />
+    <state width="404" height="466" key="DebuggerActiveHint" timestamp="1620613057157">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1589855115881" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585068971521" />
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591002979266" />
-    <state x="2469" y="157" key="FileChooserDialogImpl" timestamp="1591951765859">
-      <screen x="1920" y="3" width="1536" height="824" />
+    <state width="404" height="466" key="DebuggerActiveHint/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1620613057157" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1626247675775">
+      <screen x="-1920" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587955961656" />
-    <state x="2469" y="157" key="FileChooserDialogImpl/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591951765859" />
-    <state width="1493" height="184" key="GridCell.Tab.0.bottom" timestamp="1591339233476">
-      <screen x="1920" y="3" width="1536" height="824" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
+    <state width="1493" height="369" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646908" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1626247675775">
+      <screen x="-1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="182" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590666738625" />
-    <state width="1493" height="193" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589352393583" />
-    <state width="1493" height="231" key="GridCell.Tab.0.bottom/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591091803491" />
-    <state width="1493" height="184" key="GridCell.Tab.0.bottom/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591339233476" />
-    <state width="1493" height="184" key="GridCell.Tab.0.center" timestamp="1591339233476">
-      <screen x="1920" y="3" width="1536" height="824" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
+    <state width="1493" height="369" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646908" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1626247675775">
+      <screen x="-1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="182" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590666738625" />
-    <state width="1493" height="193" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589352393583" />
-    <state width="1493" height="231" key="GridCell.Tab.0.center/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591091803491" />
-    <state width="1493" height="184" key="GridCell.Tab.0.center/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591339233476" />
-    <state width="1493" height="184" key="GridCell.Tab.0.left" timestamp="1591339233476">
-      <screen x="1920" y="3" width="1536" height="824" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
+    <state width="1493" height="369" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646908" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1626247675775">
+      <screen x="-1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="182" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590666738625" />
-    <state width="1493" height="193" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589352393583" />
-    <state width="1493" height="231" key="GridCell.Tab.0.left/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591091803491" />
-    <state width="1493" height="184" key="GridCell.Tab.0.left/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591339233476" />
-    <state width="1493" height="184" key="GridCell.Tab.0.right" timestamp="1591339233476">
-      <screen x="1920" y="3" width="1536" height="824" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
+    <state width="1493" height="369" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646908" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
+    <state width="1493" height="221" key="GridCell.Tab.1.bottom" timestamp="1626247675775">
+      <screen x="-1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="182" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590666738625" />
-    <state width="1493" height="193" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589352393583" />
-    <state width="1493" height="231" key="GridCell.Tab.0.right/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591091803491" />
-    <state width="1493" height="184" key="GridCell.Tab.0.right/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591339233476" />
-    <state width="1478" height="230" key="GridCell.Tab.1.bottom" timestamp="1591172921100">
-      <screen x="1920" y="3" width="1536" height="824" />
+    <state width="1493" height="221" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
+    <state width="1493" height="369" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646911" />
+    <state width="1493" height="221" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
+    <state width="1493" height="221" key="GridCell.Tab.1.center" timestamp="1626247675775">
+      <screen x="-1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="135" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590478503870" />
-    <state width="1493" height="135" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588001047357" />
-    <state width="1493" height="231" key="GridCell.Tab.1.bottom/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591091803491" />
-    <state width="1478" height="230" key="GridCell.Tab.1.bottom/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591172921100" />
-    <state width="1478" height="230" key="GridCell.Tab.1.center" timestamp="1591172921100">
-      <screen x="1920" y="3" width="1536" height="824" />
+    <state width="1493" height="221" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
+    <state width="1493" height="369" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646908" />
+    <state width="1493" height="221" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
+    <state width="1493" height="221" key="GridCell.Tab.1.left" timestamp="1626247675775">
+      <screen x="-1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="135" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590478503870" />
-    <state width="1493" height="135" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588001047356" />
-    <state width="1493" height="231" key="GridCell.Tab.1.center/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591091803491" />
-    <state width="1478" height="230" key="GridCell.Tab.1.center/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591172921100" />
-    <state width="1478" height="230" key="GridCell.Tab.1.left" timestamp="1591172921100">
-      <screen x="1920" y="3" width="1536" height="824" />
+    <state width="1493" height="221" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
+    <state width="1493" height="369" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646908" />
+    <state width="1493" height="221" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
+    <state width="1493" height="221" key="GridCell.Tab.1.right" timestamp="1626247675775">
+      <screen x="-1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="135" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590478503870" />
-    <state width="1493" height="135" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588001047356" />
-    <state width="1493" height="231" key="GridCell.Tab.1.left/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591091803491" />
-    <state width="1478" height="230" key="GridCell.Tab.1.left/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591172921100" />
-    <state width="1478" height="230" key="GridCell.Tab.1.right" timestamp="1591172921100">
-      <screen x="1920" y="3" width="1536" height="824" />
-    </state>
-    <state width="1493" height="135" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590478503870" />
-    <state width="1493" height="135" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588001047357" />
-    <state width="1493" height="231" key="GridCell.Tab.1.right/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591091803491" />
-    <state width="1478" height="230" key="GridCell.Tab.1.right/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591172921100" />
-    <state x="2349" y="113" key="NewModule_or_Project.wizard" timestamp="1591951767883">
-      <screen x="1920" y="3" width="1536" height="824" />
-    </state>
-    <state x="2349" y="113" key="NewModule_or_Project.wizard/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591951767883" />
-    <state x="2190" y="3" key="SettingsEditor" timestamp="1591951773839">
-      <screen x="1920" y="3" width="1536" height="824" />
-    </state>
-    <state x="270" y="55" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590030078125" />
-    <state x="2190" y="3" key="SettingsEditor/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591951773839" />
-    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590996966253">
+    <state width="1493" height="221" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
+    <state width="1493" height="369" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646910" />
+    <state width="1493" height="221" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
+    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621999158179">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="562" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1590996966253" />
-    <state x="247" y="164" width="642" height="534" key="find.popup" timestamp="1590632409862">
+    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1621999158179" />
+    <state x="447" y="145" width="642" height="536" key="find.popup" timestamp="1624972807041">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="247" y="164" width="642" height="534" key="find.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590632409862" />
-    <state x="2178" y="31" key="new project wizard" timestamp="1591951734629">
-      <screen x="1920" y="3" width="1536" height="824" />
-    </state>
-    <state x="258" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1587289939208" />
-    <state x="2178" y="31" key="new project wizard/1920.3.1536.824/0.0.1536.824@1920.3.1536.824" timestamp="1591951734629" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591090636047">
+    <state x="447" y="145" width="642" height="536" key="find.popup/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622020007166" />
+    <state x="447" y="145" width="642" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1624972807041" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1624972829480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1590632551298" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/1920.3.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1591090636047" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1619078454236" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1624972829480" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -445,8 +957,73 @@
           <line>12</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/BubbleSort.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/BucketSort.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/search/BinarySearchTree.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/HeapSort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/search/BF.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P3.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/dynamic/Bag.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/pattern/GuardedObject.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/Test.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Client.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bettercsw/TestMain.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="map" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="ideajad">
     <property name="annotate" value="false" />

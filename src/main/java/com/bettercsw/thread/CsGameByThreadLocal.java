@@ -16,24 +16,25 @@ public class CsGameByThreadLocal {
     // 虽然共享该实例是线程安全的，但是有可能竞争同一seed导致性能下降
 
 
-    private static final ThreadLocal<Integer> BULLET_NUMBER_THREADLOCAL = new ThreadLocal<Integer>(){
+    private static final ThreadLocal<Integer> BULLET_NUMBER_THREADLOCAL = new ThreadLocal<Integer>() {
         @Override
         protected Integer initialValue() {
             return BULLET_NUMBER;
         }
     };
-    private static final ThreadLocal<Integer> KILLED_ENEMIES_THREADLOCAL = new ThreadLocal<Integer>(){
+    private static final ThreadLocal<Integer> KILLED_ENEMIES_THREADLOCAL = new ThreadLocal<Integer>() {
         @Override
         protected Integer initialValue() {
             return KILLED_ENEMIES;
         }
     };
-    private static final ThreadLocal<Integer> LIFE_VALUE_THREADLOCAL = new ThreadLocal<Integer>(){
+    private static final ThreadLocal<Integer> LIFE_VALUE_THREADLOCAL = new ThreadLocal<Integer>() {
         @Override
         protected Integer initialValue() {
             return LIFE_VALUE;
         }
     };
+
     private static class Player extends Thread {
         @Override
         public void run() {
@@ -42,7 +43,7 @@ public class CsGameByThreadLocal {
             Integer bullets = BULLET_NUMBER_THREADLOCAL.get() - random.nextInt(BULLET_NUMBER);
             Integer killEnemies = KILLED_ENEMIES_THREADLOCAL.get() + random.nextInt(5);
             Integer lifeValue = LIFE_VALUE_THREADLOCAL.get() - random.nextInt(LIFE_VALUE);
-            System.out.println(getName() + " bullets = " + bullets );
+            System.out.println(getName() + " bullets = " + bullets);
             System.out.println(getName() + " killEnemies = " + killEnemies);
             System.out.println(getName() + " lifeValue = " + lifeValue + "\n");
 

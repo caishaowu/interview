@@ -19,7 +19,7 @@ public class CarFactory {
     }
 
     public static ICar build(Class<? extends ICar> clazz) {
-        if(clazz != null) {
+        if (clazz != null) {
             try {
                 return clazz.newInstance();
             } catch (Exception e) {

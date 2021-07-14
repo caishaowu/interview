@@ -5,7 +5,7 @@ package com.chinaunicom.defaultmethod;
  * @date
  */
 public interface MyInterface2 {
-    default void defaultMethod(){
+    default void defaultMethod() {
         System.out.println("myInterface2");
     }
 }

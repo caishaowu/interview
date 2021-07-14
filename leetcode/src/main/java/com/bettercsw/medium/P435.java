@@ -5,7 +5,7 @@ import java.util.Comparator;
 
 /**
  * 不重叠的区间个数
- *
+ * <p>
  * Input: [ [1,2], [1,2], [1,2] ]
  * Output: 2
  * Explanation: You need to remove two [1,2] to make the rest of intervals non-overlapping.
@@ -22,8 +22,8 @@ public class P435 {
         Arrays.sort(intervals, Comparator.comparingInt(o -> o[1]));
         int count = 1;
         int end = intervals[0][1];
-        for(int i = 1;i< intervals.length; i++) {
-            if(intervals[i][0] < end) {
+        for (int i = 1; i < intervals.length; i++) {
+            if (intervals[i][0] < end) {
                 continue;
             }
             count++;

@@ -14,9 +14,11 @@ public class MyTest7 {
 
 class MyParent7 {
     static int a = 3;
+
     static {
         System.out.println("i am parent");
     }
+
     static void doSomething() {
         System.out.println("do something");
     }

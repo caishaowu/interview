@@ -8,10 +8,10 @@ import org.apache.commons.lang3.StringUtils;
  */
 public class Client {
     public static void main(String[] args) {
-        try{
+        try {
             SingleDog obj = (SingleDog) new CglibMeipo().getInstance(SingleDog.class);
             obj.findLove();
-        }catch (Exception e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
 

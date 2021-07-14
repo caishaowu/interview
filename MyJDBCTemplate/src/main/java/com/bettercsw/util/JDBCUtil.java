@@ -12,8 +12,8 @@ import java.util.Properties;
  */
 public class JDBCUtil {
     // private Properties properties;
-    private JDBCUtil(){}
-
+    private JDBCUtil() {
+    }
 
 
     static {
@@ -46,13 +46,13 @@ public class JDBCUtil {
                 rs.close();
             } catch (SQLException e) {
                 e.printStackTrace();
-            }finally {
+            } finally {
                 if (st != null) {
                     try {
                         st.close();
                     } catch (SQLException e) {
                         e.printStackTrace();
-                    }finally {
+                    } finally {
                         if (conn != null) {
                             try {
                                 conn.close();

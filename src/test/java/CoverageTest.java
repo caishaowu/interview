@@ -14,23 +14,25 @@ public class CoverageTest {
     @DisplayName("line coverage sample test")
     void testLineCoverageSample() {
         CoverageSampleMethods coverageSampleMethods = new CoverageSampleMethods();
-        Assertions.assertTrue(coverageSampleMethods.testMethod(1,2,0));
+        Assertions.assertTrue(coverageSampleMethods.testMethod(1, 2, 0));
     }
+
     @ParameterizedTest
     @DisplayName("Condition coverage sample test result true")
     @CsvSource({
             "1,2,0",
             "1,0,3",
     })
-    void testConditionDecisionCoverageTrue(int a,int b,int c) {
+    void testConditionDecisionCoverageTrue(int a, int b, int c) {
         CoverageSampleMethods coverageSampleMethods = new CoverageSampleMethods();
-        Assertions.assertTrue(coverageSampleMethods.testMethod(a,b,c));
+        Assertions.assertTrue(coverageSampleMethods.testMethod(a, b, c));
     }
+
     @Test
     @DisplayName("Condition Coverage sample test result false")
     void testConditionDecisionCoverageFalse() {
         CoverageSampleMethods coverageSampleMethods = new CoverageSampleMethods();
-        Assertions.assertFalse(coverageSampleMethods.testMethod(0,0,0));
+        Assertions.assertFalse(coverageSampleMethods.testMethod(0, 0, 0));
     }
 
     @ParameterizedTest
@@ -42,9 +44,9 @@ public class CoverageTest {
             "0,2,3",
             "0,0,3",
     })
-    void testMultipleConditionDecisionCoverageTrue(int a,int b,int c) {
+    void testMultipleConditionDecisionCoverageTrue(int a, int b, int c) {
         CoverageSampleMethods coverageSampleMethods = new CoverageSampleMethods();
-        Assertions.assertTrue(coverageSampleMethods.testMethod(a,b,c));
+        Assertions.assertTrue(coverageSampleMethods.testMethod(a, b, c));
     }
 
     @ParameterizedTest
@@ -54,9 +56,9 @@ public class CoverageTest {
             "1,0,0",
             "0,2,0",
     })
-    void testMultipleConditionDecisionCoverageFalse(int a,int b,int c) {
+    void testMultipleConditionDecisionCoverageFalse(int a, int b, int c) {
         CoverageSampleMethods coverageSampleMethods = new CoverageSampleMethods();
-        Assertions.assertFalse(coverageSampleMethods.testMethod(a,b,c));
+        Assertions.assertFalse(coverageSampleMethods.testMethod(a, b, c));
     }
 
     @ParameterizedTest
@@ -66,9 +68,9 @@ public class CoverageTest {
             "1,0,3",
             "0,0,3",
     })
-    void testPathCoverageSampleTrue(int a,int b,int c) {
+    void testPathCoverageSampleTrue(int a, int b, int c) {
         CoverageSampleMethods coverageSampleMethods = new CoverageSampleMethods();
-        Assertions.assertTrue(coverageSampleMethods.testMethod(a,b,c));
+        Assertions.assertTrue(coverageSampleMethods.testMethod(a, b, c));
     }
 
     @ParameterizedTest
@@ -77,9 +79,9 @@ public class CoverageTest {
             "1,0,0",
             "0,0,0",
     })
-    void testPathCoverageSampleFalse(int a,int b,int c) {
+    void testPathCoverageSampleFalse(int a, int b, int c) {
         CoverageSampleMethods coverageSampleMethods = new CoverageSampleMethods();
-        Assertions.assertFalse(coverageSampleMethods.testMethod(a,b,c));
+        Assertions.assertFalse(coverageSampleMethods.testMethod(a, b, c));
     }
 
 }

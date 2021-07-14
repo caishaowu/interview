@@ -9,7 +9,8 @@ public class MouseEventCallback {
     public void onClick(Event e) {
         System.out.println("============== 触发鼠标单击事件================" + "\n" + e);
     }
+
     public void onBlur(Event e) {
-        System.out.println("============== 触发鼠标失去焦点事件================ "+ "\n" + e);
+        System.out.println("============== 触发鼠标失去焦点事件================ " + "\n" + e);
     }
 }

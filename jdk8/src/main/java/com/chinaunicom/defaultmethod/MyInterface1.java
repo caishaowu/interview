@@ -6,7 +6,7 @@ package com.chinaunicom.defaultmethod;
  */
 public interface MyInterface1 {
 
-    default void defaultMethod(){
+    default void defaultMethod() {
         System.out.println("myInterface1");
     }
 }

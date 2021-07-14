@@ -8,11 +8,12 @@ import java.io.Serializable;
  * @author csw
  * @date 2019/11/29 15:03
  */
-public class HungrySingleton{
+public class HungrySingleton {
 
     private static final HungrySingleton hungrySingleton = new HungrySingleton();
 
-    private HungrySingleton(){}
+    private HungrySingleton() {
+    }
 
     public static HungrySingleton getInstance() {
         return hungrySingleton;

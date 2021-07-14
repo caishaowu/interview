@@ -30,11 +30,11 @@ public class SunWuKong extends Monkey implements Cloneable, Serializable {
             ByteArrayInputStream bis = new ByteArrayInputStream(bos.toByteArray());
             ObjectInputStream ois = new ObjectInputStream(bis);
 
-            SunWuKong copy = (SunWuKong)ois.readObject();
+            SunWuKong copy = (SunWuKong) ois.readObject();
             copy.birthday = new Date();
             return copy;
 
-        }catch (Exception e) {
+        } catch (Exception e) {
             e.printStackTrace();
             return null;
         }

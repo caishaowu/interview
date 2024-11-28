@@ -1,7 +1,5 @@
 package com.bettercsw.easy;
 
-import java.util.concurrent.Semaphore;
-
 /**
  * 链表
  *

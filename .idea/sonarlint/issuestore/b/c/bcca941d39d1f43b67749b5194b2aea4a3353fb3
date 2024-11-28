@@ -1,0 +1,8 @@
+
+0
+java:S1220""Move this file to a named package.
+`
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ÛĞèş8³¯ò…û/
+D
+java:S1125"'Remove the unnecessary boolean literal.(ÛĞèş8Ûúå£ş/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ

@@ -11,19 +11,22 @@ import static java.lang.Thread.sleep;
 @Slf4j
 public class Test {
 
-    static int r1 = 0; static int r2 = 0;
+    static int r1 = 0;
+    static int r2 = 0;
+
     public static void main(String[] args) throws InterruptedException {
         test2();
     }
+
     private static void test2() throws InterruptedException {
         Thread t1 = new Thread(() -> {
-        try {
-            sleep(1000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-        r1 = 10;
-    });
+            try {
+                sleep(1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            r1 = 10;
+        });
         Thread t2 = new Thread(() -> {
             try {
                 sleep(2000);
@@ -40,6 +43,6 @@ public class Test {
         t2.join();
         long end = System.currentTimeMillis();
         System.out.println(end);
-        log.debug("r1: {} r2: {} cost: {}" , r1, r2, end - start);
-        }
+        log.debug("r1: {} r2: {} cost: {}", r1, r2, end - start);
+    }
 }

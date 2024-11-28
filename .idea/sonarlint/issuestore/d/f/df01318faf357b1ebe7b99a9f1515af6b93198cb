@@ -1,0 +1,58 @@
+
+n
+java:S1192Ğ"WUse already-defined constant 'YYYY_MM_DD_HHMMSS' instead of duplicating its value here.(ÿÅ«œ
+g
+java:S1192·"PUse already-defined constant 'YYYY_MM_DD' instead of duplicating its value here.(Š„Šâ
+a	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+a	java:S112¾"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+a	java:S112ò"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+a	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+z
+java:S1488b"_Immediately return this expression instead of assigning it to the temporary variable "newDate".(˜º®İıÿÿÿÿ
+z
+java:S1488q"_Immediately return this expression instead of assigning it to the temporary variable "newDate".(˜º®İıÿÿÿÿ
+{
+java:S1488€"_Immediately return this expression instead of assigning it to the temporary variable "newDate".(˜º®İıÿÿÿÿ
+
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "nMinutesLater".(í›ãøÿÿÿÿ
+
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "nMinutesLater".(í›ãøÿÿÿÿ
+x
+java:S1488Á"\Immediately return this expression instead of assigning it to the temporary variable "date".(Ãó†úÿÿÿÿ
+x
+java:S1488Ú"\Immediately return this expression instead of assigning it to the temporary variable "time".(É…„Üûÿÿÿÿ
+
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "nMinutesLater".(í›ãøÿÿÿÿ
+
+java:S1488Ÿ"eImmediately return this expression instead of assigning it to the temporary variable "nMinutesLater".(í›ãøÿÿÿÿ
+
+java:S1488®"eImmediately return this expression instead of assigning it to the temporary variable "nMinutesLater".(í›ãøÿÿÿÿ
+z
+java:S1488ò"^Immediately return this expression instead of assigning it to the temporary variable "result".(»´Òûıÿÿÿÿ
+r
+java:S1488Ó"[Immediately return this expression instead of assigning it to the temporary variable "day".(ÀôıË
+y
+java:S1488Ù"]Immediately return this expression instead of assigning it to the temporary variable "month".(ü¤ú³úÿÿÿÿ
+x
+java:S1488æ"\Immediately return this expression instead of assigning it to the temporary variable "time".(·Ø ˜şÿÿÿÿ
+o
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(´¿‘–
+8
+java:S1116°"Remove this empty statement.(Åñ­õşÿÿÿÿ
+ˆ
+java:S1130Ä"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(¼Š³Â
+p
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªêêË
+B
+java:S1168ƒ"+Return an empty collection instead of null.(¥¹ï
+R	java:S125ª"<This block of commented-out lines of code should be removed.(æü‰Ú
+W
+java:S1854ë";Remove this useless assignment to local variable "newDate".(œÖè¥ıÿÿÿÿ
+ˆ
+java:S1130ò"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(èİÎÑşÿÿÿÿ
+ˆ
+java:S1130†"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(èİÎÑşÿÿÿÿ
+O	java:S106º"9Replace this use of System.out or System.err by a logger.(¢°´
+O	java:S106¼"9Replace this use of System.out or System.err by a logger.(Ôµø³
+T	java:S106¾"9Replace this use of System.out or System.err by a logger.(¤„ƒıûÿÿÿÿ
+T	java:S106¿"9Replace this use of System.out or System.err by a logger.(ÛÇ®øÿÿÿÿ

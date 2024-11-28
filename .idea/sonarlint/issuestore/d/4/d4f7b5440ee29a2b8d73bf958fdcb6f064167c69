@@ -1,0 +1,13 @@
+
+0
+java:S1220""Move this file to a named package.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(şš”üÿÿÿÿ
+<
+java:S2111"!Use "BigDecimal.valueOf" instead.(¶íÅÈûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(× à¢
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ßñ½€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(î˜úÛ
+<
+java:S2111"!Use "BigDecimal.valueOf" instead.(²úÔıÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤á±°şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜Òšôøÿÿÿÿ

@@ -14,6 +14,7 @@
         <module name="leetcode" />
         <module name="MyJDBCTemplate" />
         <module name="algorithm" />
+        <module name="problems" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

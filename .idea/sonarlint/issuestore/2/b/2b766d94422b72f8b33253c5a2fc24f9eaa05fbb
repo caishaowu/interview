@@ -1,0 +1,10 @@
+
+T
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(ù·¥¼
+Y
+java:S1155'">Use isEmpty() to check whether the collection is empty or not.(©ñ‚úýÿÿÿÿ
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÁî—
+\
+java:S1126'"AReplace this if-then-else statement by a single return statement.(©ñ‚úýÿÿÿÿ

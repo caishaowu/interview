@@ -9,9 +9,9 @@ import java.util.concurrent.Callable;
 public class testThread implements Callable<Boolean> {
     @Override
     public Boolean call() throws Exception {
-        while(true) {
+        while (true) {
             int page = 1;
-            if(page == 1) {
+            if (page == 1) {
                 System.out.println(page);
             }
             page++;

@@ -1,8 +1,6 @@
 package com.bettercsw.easy;
 
 
-import java.util.Arrays;
-
 /**
  * @author csw
  * @date 2020/7/20 11:02
@@ -11,8 +9,8 @@ public class P69 {
     public static void main(String[] args) {
         int i = 2;
         int j = 3;
-        double sum = i+j;
-        System.out.println( (sum) /2);
+        double sum = i + j;
+        System.out.println((sum) / 2);
     }
 
 

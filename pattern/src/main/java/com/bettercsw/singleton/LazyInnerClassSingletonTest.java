@@ -1,7 +1,6 @@
 package com.bettercsw.singleton;
 
 import java.lang.reflect.Constructor;
-import java.lang.reflect.InvocationTargetException;
 
 /**
  * 利用反射破坏单例模式

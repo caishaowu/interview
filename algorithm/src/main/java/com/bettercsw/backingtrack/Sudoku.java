@@ -1,8 +1,6 @@
 package com.bettercsw.backingtrack;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 /**
  * @author csw
@@ -15,16 +13,29 @@ public class Sudoku {
         for (int i = 0; i < ch.length; i++) {
             Arrays.fill(ch[i], '.');
         }
+        ch[0][4] = '3';
+        ch[0][6] = '7';
         ch[0][7] = '6';
-        ch[0][4] = '7';
-        ch[0][8] = '2';
-        ch[1][2] = '8';
-        ch[1][5] = '2';
+        ch[1][1] = '1';
+        ch[1][3] = '4';
         ch[1][8] = '9';
-        ch[2][0] = '3';
-        ch[2][3] = '9';
-        ch[2][6] = '7';
-        ch[2][8] = '5';
+        ch[2][0] = '9';
+        ch[2][2] = '3';
+        ch[3][0] = '3';
+        ch[3][4] = '6';
+        ch[4][1] = '4';
+        ch[4][4] = '9';
+        ch[4][8] = '1';
+        ch[5][5] = '4';
+        ch[5][8] = '5';
+        ch[6][3] = '1';
+        ch[6][8] = '4';
+        ch[7][3] = '5';
+        ch[7][5] = '3';
+        ch[7][6] = '9';
+        ch[8][0] = '6';
+        ch[8][2] = '7';
+        ch[8][7] = '2';
         solveSudoku(ch);
         print(ch);
 
@@ -60,6 +71,7 @@ public class Sudoku {
                 if (solve(board, row, column)) {
                     return true;
                 } else {
+                    print(board);
                     board[row][column] = '.';
                 }
             }

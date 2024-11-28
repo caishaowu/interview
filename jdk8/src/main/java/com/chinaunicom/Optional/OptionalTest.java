@@ -11,7 +11,8 @@ public class OptionalTest {
         //value-based class
         Optional<String> optional = Optional.ofNullable(null);
         Optional<String> hi = Optional.of("hi");
-
+        String name = null;
+        System.out.println(Optional.ofNullable(name).orElse("hello"));
         //面向对象式，不推荐
 //        if(optional.isPresent()){
 //            System.out.println(optional.get());

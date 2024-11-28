@@ -1,6 +1,5 @@
 package com.bettercsw.medium;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -10,8 +9,8 @@ import java.util.List;
 public class P39 {
 
     public static void main(String[] args) {
-        int[] candidates = new int[]{2,3,6,7};
-        System.out.println(combinationSum(candidates,7));
+        int[] candidates = new int[]{2, 3, 6, 7};
+        System.out.println(combinationSum(candidates, 7));
     }
 
     public static List<List<Integer>> combinationSum(int[] candidates, int target) {

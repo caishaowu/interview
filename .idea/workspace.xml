@@ -4,271 +4,162 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01a3321f-ac2d-421f-a3a0-599ee7db8938" name="Default" comment=" first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/Bag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/EightQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/Sudoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/minDist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/dynamic/minCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/dynamic/minDist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/search/BM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/search/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/search/BitMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/search/KMP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/search/TrieTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/BucketSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/testThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/FilterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/dp/P198.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/dp/P238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P242.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P349.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P69.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P239.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/linklist/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/linklist/P206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/linklist/P21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/linklist/P328.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P134.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P187.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P49.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P92.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/queue/BlockingQueueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/InterruptTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/MyAQS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/StateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/ThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/exercise/SequencePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/exercise/SequencePrint2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/pattern/GuardedObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/pattern/ProducerAndConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/pattern/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/PlaceholderHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/TestVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/provinces.json" afterDir="false" />
+    <list default="true" id="01a3321f-ac2d-421f-a3a0-599ee7db8938" name="Default" comment="commit">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05a15a32371fa0a57bb6bd9618b288dbfaad52c0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/060acad709a40fe146c64e5a7c50e49ad8669892" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/063d0e2b40528da4f5321ed9d574f9e3710c07bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06efa94a10dc6d55f634bb59cd80534482d3e09f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d77f0e2776dcfbb1b03146c3fca0a50f55434ff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d9dd1973bbe6bec6168561b988ec70f3e633351" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/2/120ca3d3c3bcb8fb0c747dc7c1c4b7077fb56707" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/177113c7179bf1526964044b25be92aeb604a03e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1aa8b0f6f77f997a8b46ddca42c5999ebf99344b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f863e4b307d414ece9d5e802b72c1bfe08542ba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/22cafb4e716fa1827da47f7122a5cbde10f344c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/231700a639b9e25d1d2fb712f05dea0d3c0e64db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/3434c142141789a6e74162fe73f5206125127e6b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/355a4124d60345c922e6d4a327b5e9747437aec9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35a4d0f8cfd4c29a0ec98a70e4e2151ffd2028b1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/35fa78018a650f37b06b7eca01d62d5d4fad04a2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a09ba9368a13bc71d13ee7789151c7a65cc8457" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3e410368931c153be6ad711441173ed06678ee67" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/459442b8202d988b4e732fb7257b55d4eba9c17b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/496a238a6afa168dbaf6efd37bb459331589579c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ec38af32e633664674afa0f9d94e310645c971e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51be6429fd5adb0ad5f9f13dd1acd28979906e5d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/612752beb0c5dc831f2dad43c60ad716b299d0a7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b8ffca0d9a3f670c85a24d8d13c54efa28bc45a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/707526c1914d93a2e28b68b20eb9d398ca72acc0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/786b71e2256846f46e85e916aaeaecfa6cd57665" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c09ff80c7c82b7f9cae85e13dde348770e1352a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/88b0ccc0f025012f08fa73528627c776735edb9f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a14cc04d6066882f10fab6382a4b23e76429418" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8bd6888b66ac7e6ac3b8787efa076e6f1e1cf013" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c9b75be373377ee495fc58f7d13a24c62052472" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d75acc8d9d56086015c85ab5a0279194f84e4e9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8e8f332f02286acfed10e2b005bf01ee943dda55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f8943447b79df1901271fc29f3b49ac5c3e1180" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/905c3164b81bf941c8c7d5eba1b353ae5a3681f8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/91a4294bed6d68dac40ea7c918f8d5e5d7d45d6b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/9/99b4ad171a84b9dfcdad13f491e0be3b5e2cc173" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a81317e6a328505c3690684f7883b398deb5ee3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9bef6bea77ff311c358ceac15ca72b68b4a232d7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c9a9b2094560a49db7d37f04efbf4348ba977c9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4f26989f9dc8fe3146415185ca4da25d0cce617" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6d671f1b80c0a6ad733cea100de4571af834c50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9d7a903c621aae34521afc8d2814d1d4fbf0287" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac37d33ebb81f6f601a6633b0bb184194012dfb3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ac3c6f363eca42ec28f38335417004e399056b3f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b05617e2f49af82522618b8375fde33348a9b081" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b45ed4c9a0790c903e7183fc243cea81cb490db3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bab3e188acc543d861cdb05058e4fc49d67a32d8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bcca941d39d1f43b67749b5194b2aea4a3353fb3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd6caf0e4f5d19d29f57a255c868bfd01a6c6ecd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0c42aa6e0e6207748cacefa2da50a04a14ef490" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c51b57a735410725ad786e3266749a9f96d80cf4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5ba692b08d3f6ca229da5570bb2904529626515" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cb3bb8f6a60d882049e5b7aaea2b191af834b4ef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cec197f833bd7675233ec75a1751159e7df0c97c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0603eba2598007419768667c51cc039f6a671b3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d10feb77c4a7b5e2d5146148d0beeb8c78e0bb4a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4f7b5440ee29a2b8d73bf958fdcb6f064167c69" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d806ab234e1c317bcb8fd14209cf98ec224b03e3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d904486819266bf99e2c67c4c9f2e7d281e3f33f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/f/df01318faf357b1ebe7b99a9f1515af6b93198cb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1781283a9a48b05f557535d9f22dba3c01cb3f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4302b40f054238aac024269f3d1fb522d8b8d44" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e45690375f8fb712b0f2950cff6f02ddefb8c1d5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec6aa6a7da1637bc084ce513566b6b366e9c7fe0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1e42eb4303ae67d2a616d6ed46eed6ff66e264d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f255cfe410ea3bfcc73ab843db76021a2ecaa637" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f462cfd49912e5a5219088583974d52403d5105e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/Hanota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/concurrent/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/CyclicBarrierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/exercise/VolatileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/src/main/java/BigDecimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/src/main/java/BooleanMainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/src/main/java/ConditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/src/main/java/ExecutorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/src/main/java/ForeachTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/src/main/java/LombokTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/src/main/java/SerialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/src/main/java/pojo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/src/main/java/pojo/BooleanTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/src/main/java/pojo/BooleanTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/src/main/java/pojo/BooleanTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/src/main/java/pojo/BooleanTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/src/main/java/pojo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/ExcelRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/Jasypt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/PhoneUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use-case/src/com/bettercsw/jdk/date/SimpleDateFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use-case/use-case.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/service/StuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/service/StuService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/service/impl/StuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/service/impl/StuServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/template/JDBCTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/template/JDBCTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/TestMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/util/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyJDBCTemplate/src/main/java/com/bettercsw/util/JDBCUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/Sudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/backingtrack/Sudoku.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/testThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/testThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/FilterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/FilterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Optional/OptionalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Optional/OptionalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Optional/OptionalTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Optional/OptionalTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest6.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest8.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest9.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/Stream/StreamTest9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/DefaultMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/DefaultMethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/MyInterface1.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/MyInterface1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/MyInterface1Impl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/MyInterface1Impl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/MyInterface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/defaultmethod/MyInterface2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/BinaryOperatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/BinaryOperatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/FunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/FunctionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/FunctionTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/FunctionTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/PredicateTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/PredicateTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/SupplierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/functionInterface/SupplierTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/MyList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/MyListSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/MyListSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/MyRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/StringComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/lambda/StringComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/methodreference/MethodReferenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/methodreference/MethodReferenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/pojo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/main/java/com/chinaunicom/pojo/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/src/test/java/com/chinaunicom/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/src/test/java/com/chinaunicom/Homework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/MyInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/MyInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/Stream/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/Stream/StreamTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/Stream/StreamTest9.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/Stream/StreamTest9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/defaultmethod/DefaultMethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/defaultmethod/DefaultMethodTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/BinaryOperatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/BinaryOperatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/FunctionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/FunctionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/FunctionTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/FunctionTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/PredicateTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/functionInterface/PredicateTest2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/methodreference/MethodReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/methodreference/MethodReferenceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/pojo/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/pojo/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk8/target/test-classes/com/chinaunicom/Homework.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/test-classes/com/chinaunicom/Homework.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest6.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest7.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/main/java/com/bettercsw/classLoader/MyTest7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/target/classes/META-INF/jvm.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/Optional/OptionalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk8/target/classes/com/chinaunicom/Optional/OptionalTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P257.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P257.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P455.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P455.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P680.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P680.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P127.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P127.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P215.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P215.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P435.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P435.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P257$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P257$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P257.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P257.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P455.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P455.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P680.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/easy/P680.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/medium/P215.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/bettercsw/medium/P215.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/BaseBattercake.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/BaseBattercake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/Battercake.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/Battercake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P141.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P141.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P169.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P169.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P26.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P349.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P349.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P69.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/easy/P69.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P239.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P239.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P32.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P4.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/hard/P4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P15.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P39.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P39.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P55.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/MyAQS.java" beforeDir="false" afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/MyAQS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/StateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/StateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/ThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/exercise/SequencePrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/exercise/SequencePrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/exercise/SequencePrint2.java" beforeDir="false" afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/exercise/SequencePrint2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/pattern/GuardedObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/pattern/GuardedObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/pattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread/pattern/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/EggDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/EggDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/HamDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/decorator/HamDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/AudiFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/CarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/abstractfactory/ICarEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/AudiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/AudiFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/BmwFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/BmwFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/ICarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/ICarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/methodfactory/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/factory/simplefactory/CarFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/EventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/EventListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Mouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/MouseEventCallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/MouseEventCallback.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/principle/lsp/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/deep/JinGuBang.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/deep/JinGuBang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/deep/SunWuKong.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/deep/SunWuKong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/ConcretePrototypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/ConcretePrototypeA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/Prototype.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/Prototype.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/PrototypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/prototype/shallow/PrototypeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/BaseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/BaseService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/Invocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/Invocation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/case1/ProxyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/cglib/CglibMeipo.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/cglib/CglibMeipo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/cglib/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/cglib/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/MeiPo.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/MeiPo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/SingleDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/dynamic/jdk/SingleDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/staticproxy/Mother.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/staticproxy/Mother.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/staticproxy/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/proxy/staticproxy/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/EnumSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/EnumSingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/HungrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/HungrySingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyDoubleCheckSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyDoubleCheckSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyInnerClassSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyInnerClassSingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyInnerClassSingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazyInnerClassSingletonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazySimpleSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/LazySimpleSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/SerializableSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/SerializableSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/SerializableSingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/SerializableSingletonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/util/ExecutorThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/singleton/util/ExecutorThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/CashBackStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/CashBackStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/CouponStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/CouponStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/EmptyStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/EmptyStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/GroupbuyStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/GroupbuyStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/PromotionActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/PromotionActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/PromotionStrategyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/strategy/PromotionStrategyFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/src/test/java/com/bettercsw/TestEnumSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/src/test/java/com/bettercsw/TestEnumSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/META-INF/pattern.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/BaseBattercake.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/BaseBattercake.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/EggDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/EggDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/HamDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/decorator/HamDecorator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/methodfactory/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/factory/methodfactory/TestMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/Event.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/EventListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/EventListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/MouseEventCallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/observer/MouseEventCallback.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/principle/lsp/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/prototype/deep/JinGuBang.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/prototype/deep/JinGuBang.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/prototype/shallow/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/prototype/shallow/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/prototype/shallow/ConcretePrototypeA.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/prototype/shallow/ConcretePrototypeA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/case1/Invocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/case1/Invocation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/case1/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/case1/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/case1/ProxyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/case1/ProxyFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/cglib/CglibMeipo.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/cglib/CglibMeipo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/jdk/MeiPo.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/dynamic/jdk/MeiPo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/staticproxy/Mother.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/proxy/staticproxy/Mother.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/EnumSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/EnumSingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/HungrySingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/HungrySingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazyDoubleCheckSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazyDoubleCheckSingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazyInnerClassSingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazyInnerClassSingletonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazySimpleSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/LazySimpleSingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/SerializableSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/SerializableSingleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/SerializableSingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/singleton/SerializableSingletonTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/strategy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/strategy/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/strategy/PromotionActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/strategy/PromotionActivity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/strategy/PromotionStrategyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/classes/com/bettercsw/strategy/PromotionStrategyFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pattern/target/test-classes/com/bettercsw/TestEnumSingleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/pattern/target/test-classes/com/bettercsw/TestEnumSingleton.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sort/src/main/java/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/PlaceholderHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/PlaceholderHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/TestMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/TestVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/TestVo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/EqualsObejct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/EqualsObejct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/ParamPassed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/ParamPassed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/basic/Variables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/thread/CsGameByThreadLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/thread/CsGameByThreadLocal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/CoverageSampleMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/CoverageSampleMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketSeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bettercsw/unitTest/TicketSeller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AssertJSampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AssertJSampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CoverageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CoverageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/JUnitSampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JUnitSampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TicketSellerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TicketSellerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TransactionServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TransactionServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Father.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/MyData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/MyData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/ParamPassed.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/ParamPassed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Son.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Son.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/Variables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/EqualsObejct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/basic/EqualsObejct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal$Player.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/thread/CsGameByThreadLocal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bettercsw/unitTest/TicketException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bettercsw/unitTest/TicketException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CoverageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CoverageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TransactionServiceTest$CompanyTransactionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TransactionServiceTest$CompanyTransactionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TransactionServiceTest$UserTransactionTest$NegativeCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TransactionServiceTest$UserTransactionTest$NegativeCase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test" beforeDir="false" afterPath="$PROJECT_DIR$/test" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -341,13 +232,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="SearchEverywhereHistoryKey" value="TreeMap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Enum&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Enum.java&#10;Inte&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/lang/Integer.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/multi-thread/src/main/java/com/bettercsw/thread" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/leetcode/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -356,10 +248,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -369,78 +262,22 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.bettercsw" />
+      <recent name="pojo" />
       <recent name="com.bettercsw.strategy" />
       <recent name="com.bettercsw.test" />
       <recent name="com.bettercsw.classLoader" />
-      <recent name="com.bettercsw.factory.methodfactory" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\File\ProjectCode\server\study\interview\leetcode\src\main\resources" />
       <recent name="D:\File\ProjectCode\server\study\interview\src\main\resources" />
+      <recent name="D:\File\ProjectCode\server\study\interview\src\main\java\com\bettercsw" />
       <recent name="D:\File\ProjectCode\server\study\interview\src\main\resources\json" />
       <recent name="D:\File\ProjectCode\server\study\interview\multi-thread\src\main\resources" />
-      <recent name="D:\File\ProjectCode\server\interview\leetcode\src\main\resources" />
-      <recent name="D:\File\ProjectCode\interview\leetcode\src\main\java\com\bettercsw\easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestMain">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.observer.Client" />
-      <module name="pattern" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bettercsw.observer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.easy.P26" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bettercsw.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.medium.P39" />
-      <module name="leetcode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bettercsw.medium.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.Test" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bettercsw.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bettercsw.TestMain" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="CrazyThursday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bettercsw.CrazyThursday" />
       <module name="interview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -453,21 +290,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="ExcelRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bettercsw.ExcelRead" />
+      <module name="interview" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bettercsw.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+    <configuration name="P136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bettercsw.easy.P136" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bettercsw.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bettercsw.hard.P4" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bettercsw.hard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bettercsw.medium.Test" />
+      <module name="leetcode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bettercsw.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -499,20 +379,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="Application.P4" />
+      <item itemvalue="Application.CrazyThursday" />
+      <item itemvalue="Application.ExcelRead" />
+      <item itemvalue="Application.P136" />
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.TestMain" />
-      <item itemvalue="Application.P26" />
-      <item itemvalue="Application.P39" />
       <item itemvalue="Grails.Grails: multi-thread" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestMain" />
-        <item itemvalue="Application.P39" />
-        <item itemvalue="Application.P26" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.P136" />
+        <item itemvalue="Application.ExcelRead" />
+        <item itemvalue="Application.CrazyThursday" />
+        <item itemvalue="Application.P4" />
       </list>
     </recent_temporary>
   </component>
@@ -729,7 +609,88 @@
       <workItem from="1623895543492" duration="10469000" />
       <workItem from="1624506971330" duration="8000" />
       <workItem from="1624972760829" duration="1722000" />
-      <workItem from="1626169461944" duration="4196000" />
+      <workItem from="1626169461944" duration="11113000" />
+      <workItem from="1626677597204" duration="6291000" />
+      <workItem from="1626919974584" duration="15629000" />
+      <workItem from="1627898172766" duration="641000" />
+      <workItem from="1628045337259" duration="1509000" />
+      <workItem from="1629255806017" duration="4029000" />
+      <workItem from="1630398540697" duration="9632000" />
+      <workItem from="1630893969959" duration="1194000" />
+      <workItem from="1632885211008" duration="1481000" />
+      <workItem from="1635748514329" duration="866000" />
+      <workItem from="1635776498692" duration="937000" />
+      <workItem from="1636095957076" duration="2035000" />
+      <workItem from="1636334821293" duration="204000" />
+      <workItem from="1636682633659" duration="3464000" />
+      <workItem from="1637822861336" duration="1139000" />
+      <workItem from="1639466921249" duration="2144000" />
+      <workItem from="1640769173796" duration="806000" />
+      <workItem from="1641458220818" duration="5972000" />
+      <workItem from="1642562985104" duration="5512000" />
+      <workItem from="1645086104749" duration="1305000" />
+      <workItem from="1645776785595" duration="938000" />
+      <workItem from="1646012273884" duration="29000" />
+      <workItem from="1646646426007" duration="2791000" />
+      <workItem from="1647239237870" duration="1254000" />
+      <workItem from="1647329607552" duration="392000" />
+      <workItem from="1647412432523" duration="1360000" />
+      <workItem from="1647482027141" duration="2035000" />
+      <workItem from="1647587105725" duration="1649000" />
+      <workItem from="1647832446298" duration="21720000" />
+      <workItem from="1648519370081" duration="758000" />
+      <workItem from="1648719501158" duration="19418000" />
+      <workItem from="1649059397324" duration="269000" />
+      <workItem from="1649729035777" duration="277000" />
+      <workItem from="1650101528687" duration="1192000" />
+      <workItem from="1650437750310" duration="1221000" />
+      <workItem from="1650767295733" duration="1272000" />
+      <workItem from="1650966434517" duration="701000" />
+      <workItem from="1651025143136" duration="2991000" />
+      <workItem from="1651108708798" duration="40000" />
+      <workItem from="1652153074803" duration="3695000" />
+      <workItem from="1652318893549" duration="5626000" />
+      <workItem from="1652364185431" duration="2491000" />
+      <workItem from="1652406646773" duration="607000" />
+      <workItem from="1652435369535" duration="663000" />
+      <workItem from="1652455519432" duration="1149000" />
+      <workItem from="1652574082842" duration="14000" />
+      <workItem from="1652669999014" duration="1932000" />
+      <workItem from="1652755984235" duration="3675000" />
+      <workItem from="1652841988856" duration="1351000" />
+      <workItem from="1652923228434" duration="1851000" />
+      <workItem from="1652964861505" duration="40000" />
+      <workItem from="1653014674440" duration="724000" />
+      <workItem from="1653463989543" duration="1253000" />
+      <workItem from="1653533506536" duration="2787000" />
+      <workItem from="1653620846541" duration="2035000" />
+      <workItem from="1653898966793" duration="816000" />
+      <workItem from="1654140137602" duration="9666000" />
+      <workItem from="1654568624097" duration="5693000" />
+      <workItem from="1654675648480" duration="1207000" />
+      <workItem from="1654737743374" duration="720000" />
+      <workItem from="1654754797170" duration="8411000" />
+      <workItem from="1654827034865" duration="1203000" />
+      <workItem from="1655095836536" duration="1262000" />
+      <workItem from="1655176451305" duration="6000" />
+      <workItem from="1656640358272" duration="1228000" />
+      <workItem from="1656899389159" duration="1920000" />
+      <workItem from="1657780581361" duration="919000" />
+      <workItem from="1658373324365" duration="2489000" />
+      <workItem from="1658388400929" duration="224000" />
+      <workItem from="1659515088823" duration="7104000" />
+      <workItem from="1659581659426" duration="2014000" />
+      <workItem from="1660014060552" duration="19000" />
+      <workItem from="1673871262280" duration="20000" />
+      <workItem from="1673871299338" duration="4249000" />
+      <workItem from="1675063025256" duration="852000" />
+      <workItem from="1678432283566" duration="317000" />
+      <workItem from="1678432619971" duration="35000" />
+      <workItem from="1691548246588" duration="1773000" />
+      <workItem from="1691550057701" duration="3935000" />
+      <workItem from="1695022694363" duration="19000" />
+      <workItem from="1699262248831" duration="1034000" />
+      <workItem from="1699583862297" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="feat($compile): short&#10;&#10;Long desc">
       <created>1592384923526</created>
@@ -738,7 +699,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592384923526</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <created>1626250539228</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626250539228</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TraitInjectorService">
@@ -850,84 +818,50 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value=" first commit" />
     <MESSAGE value="feat($compile): short&#10;&#10;Long desc" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat($compile): short&#10;&#10;Long desc" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="0" key="#Project_Structure" timestamp="1623832563895">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1699583906909">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="0" key="#Project_Structure/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1619161675647" />
-    <state x="361" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1623832563895" />
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1620721247705">
+    <state x="549" y="167" key="FileChooserDialogImpl/1920.103.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1699583906909" />
+    <state width="1493" height="319" key="GridCell.Tab.0.bottom" timestamp="1691561935353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1620721247705" />
-    <state width="404" height="466" key="DebuggerActiveHint" timestamp="1620613057157">
+    <state width="1493" height="319" key="GridCell.Tab.0.bottom/1920.103.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1691561935353" />
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom/1920.103.1536.824/0.0.1536.824@1920.103.1536.824" timestamp="1691550140114" />
+    <state width="1493" height="319" key="GridCell.Tab.0.center" timestamp="1691561935353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="404" height="466" key="DebuggerActiveHint/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1620613057157" />
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1626247675775">
-      <screen x="-1920" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
-    <state width="1493" height="369" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646908" />
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
-    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1626247675775">
-      <screen x="-1920" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
-    <state width="1493" height="369" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646908" />
-    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
-    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1626247675775">
-      <screen x="-1920" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
-    <state width="1493" height="369" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646908" />
-    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
-    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1626247675775">
-      <screen x="-1920" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
-    <state width="1493" height="369" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646908" />
-    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
-    <state width="1493" height="221" key="GridCell.Tab.1.bottom" timestamp="1626247675775">
-      <screen x="-1920" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="221" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
-    <state width="1493" height="369" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646911" />
-    <state width="1493" height="221" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
-    <state width="1493" height="221" key="GridCell.Tab.1.center" timestamp="1626247675775">
-      <screen x="-1920" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="221" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
-    <state width="1493" height="369" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646908" />
-    <state width="1493" height="221" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
-    <state width="1493" height="221" key="GridCell.Tab.1.left" timestamp="1626247675775">
-      <screen x="-1920" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="221" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
-    <state width="1493" height="369" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646908" />
-    <state width="1493" height="221" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
-    <state width="1493" height="221" key="GridCell.Tab.1.right" timestamp="1626247675775">
-      <screen x="-1920" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="221" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1626247675775" />
-    <state width="1493" height="369" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622009646910" />
-    <state width="1493" height="221" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1624981637740" />
-    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621999158179">
+    <state width="1493" height="319" key="GridCell.Tab.0.center/1920.103.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1691561935353" />
+    <state width="1493" height="192" key="GridCell.Tab.0.center/1920.103.1536.824/0.0.1536.824@1920.103.1536.824" timestamp="1691550140114" />
+    <state width="1493" height="319" key="GridCell.Tab.0.left" timestamp="1691561935353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="573" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1621999158179" />
-    <state x="447" y="145" width="642" height="536" key="find.popup" timestamp="1624972807041">
+    <state width="1493" height="319" key="GridCell.Tab.0.left/1920.103.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1691561935353" />
+    <state width="1493" height="192" key="GridCell.Tab.0.left/1920.103.1536.824/0.0.1536.824@1920.103.1536.824" timestamp="1691550140114" />
+    <state width="1493" height="319" key="GridCell.Tab.0.right" timestamp="1691561935353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="447" y="145" width="642" height="536" key="find.popup/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1622020007166" />
-    <state x="447" y="145" width="642" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1624972807041" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1624972829480">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="319" key="GridCell.Tab.0.right/1920.103.1536.824/0.0.1536.824@0.0.1536.824" timestamp="1691561935353" />
+    <state width="1493" height="192" key="GridCell.Tab.0.right/1920.103.1536.824/0.0.1536.824@1920.103.1536.824" timestamp="1691550140114" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1691549571475">
+      <screen x="1920" y="103" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1619078454236" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1624972829480" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/1920.103.1536.824/0.0.1536.824@1920.103.1536.824" timestamp="1691549571475" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1691549571475">
+      <screen x="1920" y="103" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/1920.103.1536.824/0.0.1536.824@1920.103.1536.824" timestamp="1691549571475" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1691549571475">
+      <screen x="1920" y="103" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/1920.103.1536.824/0.0.1536.824@1920.103.1536.824" timestamp="1691549571475" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1691549571475">
+      <screen x="1920" y="103" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/1920.103.1536.824/0.0.1536.824@1920.103.1536.824" timestamp="1691549571475" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -958,11 +892,6 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/BubbleSort.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/BucketSort.java</url>
           <line>57</line>
           <option name="timeStamp" value="16" />
@@ -973,19 +902,9 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/sort/HeapSort.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/search/BF.java</url>
           <line>25</line>
           <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/P3.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/algorithm/src/main/java/com/bettercsw/dynamic/Bag.java</url>
@@ -998,30 +917,28 @@
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/bettercsw/medium/Test.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="37" />
+          <url>jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/ArrayList.java</url>
+          <line>966</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/pattern/src/main/java/com/bettercsw/observer/Client.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bettercsw/TestMain.java</url>
-          <line>35</line>
-          <option name="timeStamp" value="40" />
+          <url>jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/io/ObjectStreamClass.java</url>
+          <line>677</line>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="java.util.HashMap$Node" memberName="value" />
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
       </pinned-members>
     </pin-to-top-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="map" />
+        <watch expression="expectedModCount" language="JAVA" />
+        <watch expression="modCount" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>

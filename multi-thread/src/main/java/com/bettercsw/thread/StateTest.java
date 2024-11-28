@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
  * @date 2020/9/23 10:29
  */
 public class StateTest {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         Thread t1 = new Thread("t1");
 
         Thread t2 = new Thread(() -> {

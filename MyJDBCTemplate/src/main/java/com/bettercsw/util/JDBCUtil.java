@@ -1,10 +1,6 @@
 package com.bettercsw.util;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.lang.reflect.Proxy;
 import java.sql.*;
-import java.util.Properties;
 
 /**
  * @author csw

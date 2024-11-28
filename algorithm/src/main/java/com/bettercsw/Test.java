@@ -1,9 +1,6 @@
 package com.bettercsw;
 
 
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-
 /**
  * @author csw
  * @date 2020/9/9 14:58
@@ -14,10 +11,30 @@ public class Test {
         // ExecutorService executorService = Executors.newCachedThreadPool();
         // executorService.submit(new testThread());
 
-        User user1 = new User(2,"xx","male",15);
-        User user2 = new User(1,"xx","male",15);
-        System.out.println(user1.equals(user2));
+        Test test = new Test();
+        int[][] matrix = new int[][]{{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+        test.rotate(matrix);
     }
 
+    public void rotate(int[][] matrix) {
+        int h = matrix.length;
+        int w = matrix[0].length;
+        int temp = h - 1;
+        int[][] result = new int[h][w];
+        for (int x = 0; x < h; x++) {
+            for (int y = 0; y < w; y++) {
+                result[y][x] = matrix[temp][y];
+            }
+            temp--;
+        }
+
+
+        for (int x = 0; x < h; x++) {
+            for (int y = 0; y < w; y++) {
+                matrix[x][y] = result[x][y];
+            }
+        }
+        System.out.println(matrix);
+    }
 
 }

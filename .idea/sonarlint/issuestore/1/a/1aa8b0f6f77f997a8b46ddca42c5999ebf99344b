@@ -1,0 +1,10 @@
+
+]
+java:S3959"GRefactor this code so that this consumed stream pipeline is not reused.(Œ‘ÿü
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øàŒÍþÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(õ¤Áëýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œ‘ÿü
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ò£›ƒùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ëôßÊ

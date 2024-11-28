@@ -10,7 +10,7 @@ public class MyAQS extends AbstractQueuedSynchronizer {
 
     @Override
     protected boolean tryAcquire(int arg) {
-        if(compareAndSetState(0,1)) {
+        if (compareAndSetState(0, 1)) {
             setExclusiveOwnerThread(Thread.currentThread());
             return true;
         }
@@ -23,7 +23,6 @@ public class MyAQS extends AbstractQueuedSynchronizer {
         setState(0);
         return true;
     }
-
 
 
     @Override

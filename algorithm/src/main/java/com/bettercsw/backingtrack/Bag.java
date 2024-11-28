@@ -1,10 +1,5 @@
 package com.bettercsw.backingtrack;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
-
 /**
  * 0-1 背包问题:背包总的承载重量是 Wkg。现在我们有 n 个物品，每个物品的重量不等，并且不可分割。
  * 我们现在期望选择几件物品，装载到背包中。在不超过背包所能装载重量的前提下，如何让背包中物品的总重量最大？
@@ -18,8 +13,6 @@ public class Bag {
 
     public static void main(String[] args) {
         int[] items = new int[]{90, 60, 20, 30, 10, 10};
-        Set set = new HashSet();
-        new String(String.valueOf(set));
         f(0, 0, 100, items);
         System.out.println(MAX_WEIGHT);
 

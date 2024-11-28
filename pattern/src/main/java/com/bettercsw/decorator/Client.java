@@ -1,10 +1,5 @@
 package com.bettercsw.decorator;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
-import java.util.stream.Collectors;
-
 /**
  * @author csw
  * @date 2020/5/25 11:02

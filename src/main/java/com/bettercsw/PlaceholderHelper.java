@@ -20,11 +20,11 @@ package com.bettercsw;
 import org.apache.commons.lang3.StringUtils;
 
 
-
 import java.util.Stack;
 
 /**
  * Placeholder helper functions.
+ *
  * @author csw
  */
 public class PlaceholderHelper {
@@ -69,19 +69,19 @@ public class PlaceholderHelper {
             // ${some.key:other.key}
             if (placeholderCandidate.startsWith(PLACEHOLDER_PREFIX)) {
                 stack.push(placeholderCandidate);
-            }else {
+            } else {
                 // some.key:${some.other.key:100}
                 int separatorIndex = placeholderCandidate.indexOf(VALUE_SEPARATOR);
 
                 if (separatorIndex == -1) {
                     stack.push(placeholderCandidate);
-                }else {
+                } else {
                     stack.push(placeholderCandidate.substring(0, separatorIndex));
-            //         String defaultValuePart =
-            //                 normalizeToPlaceholder(placeholderCandidate.substring(separatorIndex + VALUE_SEPARATOR.length()));
-            //         if (org.apache.commons.lang3.StringUtils.isNotBlank(defaultValuePart)) {
-            //             stack.push(defaultValuePart);
-            //         }
+                    //         String defaultValuePart =
+                    //                 normalizeToPlaceholder(placeholderCandidate.substring(separatorIndex + VALUE_SEPARATOR.length()));
+                    //         if (org.apache.commons.lang3.StringUtils.isNotBlank(defaultValuePart)) {
+                    //             stack.push(defaultValuePart);
+                    //         }
                 }
             }
             //${some.key}:${another.key}
@@ -112,6 +112,7 @@ public class PlaceholderHelper {
 
         return strVal.substring(startIndex, endIndex + PLACEHOLDER_SUFFIX.length());
     }
+
     private static int findPlaceholderEndIndex(CharSequence buf, int startIndex) {
         int index = startIndex + PLACEHOLDER_PREFIX.length();
         int withinNestedPlaceholder = 0;
@@ -132,7 +133,6 @@ public class PlaceholderHelper {
         }
         return -1;
     }
-
 
 
 }

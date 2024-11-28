@@ -1,7 +1,5 @@
 package com.bettercsw.hard;
 
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Stack;
 
 /**

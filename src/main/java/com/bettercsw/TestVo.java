@@ -1,5 +1,7 @@
 package com.bettercsw;
 
+import lombok.ToString;
+
 import java.io.Serializable;
 import java.util.Objects;
 
@@ -7,13 +9,16 @@ import java.util.Objects;
  * @author csw
  * @date 2021/4/26 11:40
  */
+@ToString
 public class TestVo implements Serializable {
-    public TestVo(){}
+    public TestVo() {
+    }
 
     public TestVo(String name, Long value) {
         this.name = name;
         this.value = value;
     }
+
     /**
      * 行业名称
      */
@@ -24,7 +29,6 @@ public class TestVo implements Serializable {
      * 销量
      */
     private Long value;
-
 
 
     public String getName() {

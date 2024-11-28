@@ -1,7 +1,5 @@
 package com.bettercsw.singleton;
 
-import java.io.Serializable;
-
 /**
  * 典型的饿汉式单例模式
  *

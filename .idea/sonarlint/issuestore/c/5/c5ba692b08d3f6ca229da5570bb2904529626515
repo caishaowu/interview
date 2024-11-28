@@ -1,0 +1,15 @@
+
+H
+java:S2699E"-Add at least one assertion to this test case.(Ç†ÅÆûÿÿÿÿ
+4
+java:S57862"Remove this 'public' modifier.(ôÀÀÛ
+4
+java:S5786;"Remove this 'public' modifier.(ëÊ¨²
+9
+java:S5786E"Remove this 'public' modifier.(Ç†ÅÆûÿÿÿÿ
+3
+java:S5786N"Remove this 'public' modifier.(Øˆ¾
+9
+java:S5786"Remove this 'public' modifier.(ýÞÆëýÿÿÿÿ
+s
+java:S1607N"^Either add an explanation about why this test is skipped or remove the "@Disabled" annotation.(Øˆ¾

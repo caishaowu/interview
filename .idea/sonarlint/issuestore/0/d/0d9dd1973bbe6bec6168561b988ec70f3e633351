@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+S
+java:S1128"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ8ÑÍûŞú/
+Y
+java:S1128"7Remove this unused import 'java.io.ObjectOutputStream'.(é»Óºûÿÿÿÿ8ÑÍûŞú/
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8°³¡ş/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Á¬´ùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±Ÿø·ÿÿÿÿÿ8Ê½–§û/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ëåßš8¸¬²¡ş/

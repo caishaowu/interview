@@ -1,8 +1,6 @@
 package com.bettercsw.observer;
 
-import javafx.event.EventHandler;
 import lombok.Data;
-import lombok.RequiredArgsConstructor;
 import lombok.ToString;
 
 import java.lang.reflect.Method;

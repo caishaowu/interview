@@ -1,0 +1,20 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘Š¨÷ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(âÔŒ’ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ú€»İ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(“ıç„
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ê½õÇ
+l
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ªş‘¯
+r
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(ªş‘¯
+l
+java:S4276"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(ÁîàŸ
+r
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(ÁîàŸ
+s
+java:S4276"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(Šç¯ê
+s
+java:S4276#"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(ß„ñ
+r
+java:S4276#"\Refactor this code to use the more specialised Functional Interface 'UnaryOperator<Integer>'(ß„ñ

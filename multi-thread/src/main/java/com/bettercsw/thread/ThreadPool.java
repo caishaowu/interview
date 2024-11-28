@@ -46,11 +46,11 @@ public class ThreadPool {
 
     public void execute(Runnable task) {
         synchronized (workers) {
-            if(workers.size() < coreSize) {
+            if (workers.size() < coreSize) {
                 Worker worker = new Worker(task);
                 workers.add(worker);
                 worker.start();
-            }else {
+            } else {
                 taskQueue.put(task);
             }
         }
@@ -65,11 +65,11 @@ public class ThreadPool {
 
         @Override
         public void run() {
-            while(task != null && taskQueue.take() != null) {
+            while (task != null && taskQueue.take() != null) {
                 try {
                     System.out.println("执行任务" + task);
                     task.run();
-                }finally {
+                } finally {
                     task = null;
                 }
             }
@@ -122,13 +122,13 @@ class BlockingQueue<T> {
     }
 
     //超时阻塞获取
-    public T take(long timeout,TimeUnit timeUnit) {
+    public T take(long timeout, TimeUnit timeUnit) {
         lock.lock();
         try {
             long nanos = timeUnit.toNanos(timeout);
             while (queue.isEmpty()) {
                 try {
-                    if(nanos <= 0) {
+                    if (nanos <= 0) {
                         return null;
                     }
                     nanos = emptyWaitSet.awaitNanos(nanos);
@@ -165,13 +165,13 @@ class BlockingQueue<T> {
     }
 
     //超时阻塞添加
-    public boolean put(T task,long timeout,TimeUnit timeUnit) {
+    public boolean put(T task, long timeout, TimeUnit timeUnit) {
         lock.lock();
         try {
             long nanos = timeUnit.toNanos(timeout);
             while (queue.size() == this.capacity) {
                 try {
-                    if(nanos <= 0) {
+                    if (nanos <= 0) {
                         return false;
                     }
                     nanos = fullWaitSet.awaitNanos(nanos);
@@ -191,7 +191,7 @@ class BlockingQueue<T> {
         lock.lock();
         try {
             return queue.size();
-        }finally {
+        } finally {
             lock.unlock();
         }
     }

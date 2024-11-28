@@ -12,7 +12,7 @@ public class P20 {
 
     public static void main(String[] args) {
         P20 p = new P20();
-        System.out.println(p.isValid("]["));
+        System.out.println(p.isValid("[[{{[]}}]"));
     }
 
     public boolean isValid(String s) {

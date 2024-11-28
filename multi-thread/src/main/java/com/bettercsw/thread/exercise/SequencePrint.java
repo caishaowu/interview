@@ -3,9 +3,7 @@ package com.bettercsw.thread.exercise;
 import lombok.NoArgsConstructor;
 
 import java.util.concurrent.TimeUnit;
-import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.LockSupport;
-import java.util.concurrent.locks.ReentrantLock;
 
 /**
  * 多线程输出 abcabcabcabcabc

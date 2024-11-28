@@ -1,0 +1,31 @@
+
+\
+java:S1128	"ARemove this unused import 'org.apache.poi.ss.usermodel.CellType'.(û×ñ¤ùÿÿÿÿ
+Y
+java:S1128"CRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFCell'.(™Óšà
+M
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ
+Y
+java:S1128
+"CRemove this unused import 'org.apache.poi.ss.usermodel.DataFormat'.(àûá
+X
+java:S1128"BRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFRow'.(‹õ·¿
+Z
+java:S1128"DRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFSheet'.(®…óŸ
+Y
+java:S1128"CRemove this unused import 'org.apache.poi.xssf.usermodel.XSSFCell'.(Ñƒöğ
+b
+java:S1128"GRemove this unused import 'org.apache.poi.hssf.usermodel.HSSFWorkbook'.(¾§—Œıÿÿÿÿ
+N
+java:S1854•"7Remove this useless assignment to local variable "map".(øà‚
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(œû¿Ø
+S	java:S106i"9Replace this use of System.out or System.err by a logger.(öÌ÷×úÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(ßù—ı
+R	java:S125—"<This block of commented-out lines of code should be removed.(ïäÏÜ
+P
+java:S2864¯"4Iterate over the "entrySet" instead of the "keySet".(½Ö²’ûÿÿÿÿ
+K
+java:S2864³"4Iterate over the "entrySet" instead of the "keySet".(¹Õû½
+?
+java:S1481•"(Remove this unused "map" local variable.(øà‚

@@ -1,0 +1,80 @@
+
+n
+java:S1192á"WUse already-defined constant 'YYYY_MM_DD_HHmmss' instead of duplicating its value here.(ÿÅ«œ
+e
+java:S1192Ë"NUse already-defined constant 'YYYYMMDD' instead of duplicating its value here.(ÓÏ›ì
+l
+java:S1192Å"PUse already-defined constant 'YYYY_MM_DD' instead of duplicating its value here.(­Äßºşÿÿÿÿ
+_
+java:S2184Ó"CCast one of the operands of this subtraction operation to a "long".(Ó¤íºùÿÿÿÿ
+a	java:S112§"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+a	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+g	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³º¦‚
+g	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ·ˆø
+z
+java:S1488]"_Immediately return this expression instead of assigning it to the temporary variable "newDate".(˜º®İıÿÿÿÿ
+z
+java:S1488l"_Immediately return this expression instead of assigning it to the temporary variable "newDate".(˜º®İıÿÿÿÿ
+z
+java:S1488{"_Immediately return this expression instead of assigning it to the temporary variable "newDate".(˜º®İıÿÿÿÿ
+
+java:S1488Š"eImmediately return this expression instead of assigning it to the temporary variable "nMinutesLater".(í›ãøÿÿÿÿ
+
+java:S1488˜"eImmediately return this expression instead of assigning it to the temporary variable "nMinutesLater".(í›ãøÿÿÿÿ
+x
+java:S1488¼"\Immediately return this expression instead of assigning it to the temporary variable "date".(Ãó†úÿÿÿÿ
+x
+java:S1488ë"\Immediately return this expression instead of assigning it to the temporary variable "time".(É…„Üûÿÿÿÿ
+
+java:S1488¡"eImmediately return this expression instead of assigning it to the temporary variable "nMinutesLater".(í›ãøÿÿÿÿ
+
+java:S1488°"eImmediately return this expression instead of assigning it to the temporary variable "nMinutesLater".(í›ãøÿÿÿÿ
+
+java:S1488¿"eImmediately return this expression instead of assigning it to the temporary variable "nMinutesLater".(í›ãøÿÿÿÿ
+z
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(»´Òûıÿÿÿÿ
+r
+java:S1488ğ"[Immediately return this expression instead of assigning it to the temporary variable "day".(ÀôıË
+y
+java:S1488ö"]Immediately return this expression instead of assigning it to the temporary variable "month".(ü¤ú³úÿÿÿÿ
+x
+java:S1488ƒ"\Immediately return this expression instead of assigning it to the temporary variable "time".(·Ø ˜şÿÿÿÿ
+s
+java:S1488Ä"\Immediately return this expression instead of assigning it to the temporary variable "time".(µ×÷
+t
+java:S4144Í"XUpdate this method so that its implementation is not identical to "getDate" on line 324.(„—øÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(«¯ú­
+t	java:S115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ğƒı‚üÿÿÿÿ
+t	java:S115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(®Ó®­ûÿÿÿÿ
+o	java:S115$"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠÙ¡²
+n	java:S115("ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ª‘•
+t	java:S115*"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ‹ˆûÿÿÿÿ
+t	java:S115,"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŠÃışşÿÿÿÿ
+t	java:S115."ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Öğ¦íüÿÿÿÿ
+
+java:S1845*"sRename field "yyyymmddhhmmss" to prevent any misunderstanding/clash with field "YYYYMMDDHHMMSS" defined on line 16.(Œ‹ˆûÿÿÿÿ
+…
+java:S1845Æ"nRename method "getSysdate" to prevent any misunderstanding/clash with method "getSysDate" defined on line 234.(¬áäñ
+o
+java:S22935"YReplace the type specification in this constructor call with the diamond operator ("<>").(´¿‘–
+8
+java:S1116«"Remove this empty statement.(Åñ­õşÿÿÿÿ
+ˆ
+java:S1130à"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(¼Š³Â
+p
+java:S2293á"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªêêË
+B
+java:S1168Ÿ"+Return an empty collection instead of null.(¥¹ï
+W	java:S125È"<This block of commented-out lines of code should be removed.(ï¾öˆøÿÿÿÿ
+W
+java:S1854ˆ";Remove this useless assignment to local variable "newDate".(œÖè¥ıÿÿÿÿ
+ˆ
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(èİÎÑşÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(¢°´
+O	java:S106†"9Replace this use of System.out or System.err by a logger.(Ôµø³
+T	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¤„ƒıûÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(ÛÇ®øÿÿÿÿ
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(ÃÊØòùÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ê‚Ğ¢şÿÿÿÿ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(„–¡©øÿÿÿÿ

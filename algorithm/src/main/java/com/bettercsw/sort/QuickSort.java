@@ -7,7 +7,7 @@ package com.bettercsw.sort;
 public class QuickSort {
 
     public static void main(String[] args) {
-        int[] a = {0, 4, 2, 9, 1, 0, 1, 1, 1, 1, 2, 2, 3, 3, 4};
+        int[] a = {0, 4, 2, 9, 1, 7, 8, 4};
         sort(a);
         for (int i : a) {
             System.out.print(i);
